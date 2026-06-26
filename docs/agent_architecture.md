@@ -13,22 +13,26 @@ a native `libstdc++` dep), or (b) a Kaggle API token + accepted Simulation rules
 download `sample_submission/cg`. Until then we build infra against the existing
 mock, but cannot truly iterate.
 
-## 1. Deployment — a portable compute hub (Mac dev · Windows overnight · VPS scale)
-The repo **is** the hub: agent code, the loop, the champion, and the experiment
-ledger. Hosts coordinate over **git** (the workhorse pushes the new champion +
-ledger; the brain pulls). The OpenClaw runtime (orchestrator, cron, sub-agents,
-memory) is reused, repointed from the Kalshi tree to `kagglecomp/` with a new skill set.
+## 1. Deployment — the Mac is the always-on engine; the workhorse only adds
+**Design rule: never put a human-gated resource on the critical path.** Every workhorse
+run needs a human (start it; the box being on/awake), so if progress *waits* on it,
+that's a human-in-the-loop stall — and overnight we'd make zero progress waiting. The
+Mac is always-on and autonomous, so the **continuous engine runs locally on the Mac**
+(even if slower); the workhorse is an *optional periodic accelerator*, never a
+dependency. The repo is the hub; hosts coordinate over **git**.
 
-- **Windows desktop — the self-play workhorse (best near-term).** `cg` ships a native
-  Windows `cg.dll`, so battles run **natively — no Docker, no emulation, full speed.**
-  Leave the inner loop (`mutate → self-play → verify → keep`) running overnight; it
-  commits the new champion + ledger. A GPU here is also the ideal **VibeThinker** host.
-- **Mac — dev + brain.** The OpenClaw **Strategist** runs here: pulls results, picks
-  levers, does the Opus passover, manages submissions. `cg` on the Mac only via Docker
-  (amd64-emulated, slow) — for quick checks, not the grind.
-- **VPS — scale-up (optional).** A Linux box sized to a **multiple of the competition
-  spec (2 vCPU / 12 GiB each)** runs many parallel games natively (`libcg.so`). Reach
-  for it only if Windows-overnight isn't enough throughput.
+- **Mac — the continuous autonomous engine (the floor).** Runs **VibeThinker-3B**
+  (codegen, ~6 GB of the 12–16 GB unified memory) **+ ~4–5 parallel `cg` workers** —
+  each a lightweight amd64 Linux container (~200 MB; a single game needs only ~2 vCPU
+  and a few hundred MB). Emulated → slow *per game*, but parallel and unattended →
+  steady 24/7 progress with zero humans. The loop always advances here. This is also
+  exactly the "send our LLMs over the logs of what went wrong" loop — local + continuous.
+- **Windows desktop — a 1–2×/day batch accelerator.** `cg.dll` runs native (fast). You
+  kick off a big long-running experiment (deep tournament / large mutation sweep) when
+  you're at the box; results merge back via git. The loop *consumes* these when they
+  land but **never blocks** waiting for them.
+- **VPS — scale-up only if the Mac floor is too slow** (a Linux box at a multiple of
+  2 vCPU / 12 GiB, native `libcg.so`).
 
 **Submission policy: AUTO.** The loop auto-submits the verified-best challenger (gated
 by `verify_gate` + an Opus passover), ≤5/day, and notifies after. (Flip to

@@ -13,12 +13,15 @@ The machinery that iterates the agent against self-play win-rate. See
 `cg` is native (`cg.dll` on Windows, `libcg.so` on Linux). The scripts are pure
 Python and cross-platform; only the engine is native.
 
-- **Windows desktop (primary, native, overnight):** drop `cg/` in, then
-  `python scripts/run_official_simulations.py --agent agents/lucario --opponent random --games 200`.
-  No Docker — `cg.dll` loads directly, full speed. This is the self-play workhorse.
-- **Mac (dev only, emulated):** `bash loop/run_selfplay.sh agents/lucario random 200`
-  runs it in an amd64 Linux container (`Dockerfile`) — slower; for quick checks.
-- **Linux VPS (scale):** run the scripts directly; `libcg.so` loads natively.
+- **Mac (the always-on engine, the floor):** runs ~4–5 parallel `cg` workers as
+  lightweight amd64 Linux containers (`Dockerfile`) + VibeThinker — slow per game
+  (emulated) but parallel + unattended = continuous progress, no human.
+  `bash loop/run_selfplay.sh agents/lucario random 200` runs one; a fan-out runner
+  spins up N. Never blocks on anything.
+- **Windows desktop (1–2×/day batch accelerator):** drop `cg/` in, run the scripts
+  directly (`python scripts/run_official_simulations.py ...`) — `cg.dll` native, full
+  speed. Big periodic experiments; results merge back via git. Never on the critical path.
+- **Linux VPS (scale):** run the scripts directly; `libcg.so` native.
 
 ## To get cg
 `kaggle competitions download -c pokemon-tcg-ai-battle`, extract
