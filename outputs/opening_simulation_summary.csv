@@ -1,0 +1,5 @@
+variant,trials,open_has_basic,open_has_riolu,open_has_secondary_basic,open_basic_count_mean,turn2_has_riolu_access,turn2_has_lucario_access,turn2_has_hariyama_line,turn2_energy_ge_1,turn2_energy_ge_2,turn2_draw_support,turn2_search_support,turn2_boss_or_switch,turn2_power_mod,turn2_basic_species_mean,turn2_multi_plan
+lucario_anti_wall,20000,0.86085,0.39455,0.6537,1.6372,0.88565,0.6991,0.56625,0.85995,0.52305,0.7572,0.8291,0.56725,0.69835,1.8302,0.59855
+lucario_consistency,20000,0.8634,0.39625,0.60245,1.63765,0.88455,0.75195,0.5292,0.85995,0.52305,0.75425,0.8601,0.4865,0.6961,1.8306,0.60145
+lucario_power,20000,0.7811,0.39625,0.47815,1.29125,0.86015,0.70365,0.4476,0.9077,0.6279,0.75235,0.8322,0.5674,0.74725,1.48215,0.4529
+lucario_resilient,20000,0.7811,0.39625,0.47815,1.29125,0.88535,0.75355,0.5363,0.88485,0.57615,0.7534,0.8876,0.48605,0.74725,1.4416,0.4461

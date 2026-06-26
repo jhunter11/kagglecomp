@@ -1,0 +1,5 @@
+variant,deck_size,unique_cards,is_60_cards,unknown_ids,copy_limit_violations,ace_spec_total,ace_spec_ok,pokemon_count,basic_pokemon_count,trainer_count,energy_count,avg_hp,max_attack_damage,avg_attack_dpe,mulligan_probability,legal_basic_checks,attacker_cards,distinct_attackers,top_attacker,top_attacker_count,top_attacker_share,attacker_hhi
+lucario_anti_wall,60,18,True,[],[],1,True,21,14,29,11,46.0,270.0,18.333333333333332,0.1385906808712801,True,20,7,Riolu,4,0.2,0.15000000000000002
+lucario_consistency,60,18,True,[],[],1,True,21,14,29,11,49.666666666666664,270.0,19.583333333333332,0.1385906808712801,True,20,7,Riolu,4,0.2,0.15500000000000003
+lucario_power,60,18,True,[],[],1,True,18,11,30,13,44.5,270.0,17.5,0.22242114149585926,True,17,7,Riolu,4,0.23529411764705882,0.16955017301038064
+lucario_resilient,60,17,True,[],[],1,True,18,11,31,12,44.833333333333336,270.0,18.166666666666668,0.22242114149585926,True,17,6,Riolu,4,0.23529411764705882,0.18339100346020762

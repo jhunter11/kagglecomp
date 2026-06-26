@@ -1,0 +1,18 @@
+card_id,card_name,quantity,stage_type,rule,hp,type,max_damage,min_attack_cost,max_damage_per_energy,has_search,has_draw,has_gust,has_energy_accel
+6,Basic {F} Energy,12,Basic Energy,,0.0,{F},0.0,0,0.0,False,False,False,False
+675,Lunatone,2,Basic Pokémon,,110.0,{F},50.0,2,25.0,False,True,False,True
+673,Makuhita,2,Basic Pokémon,,80.0,{F},30.0,1,15.0,False,False,False,False
+677,Riolu,4,Basic Pokémon,,80.0,{F},30.0,1,30.0,False,False,False,False
+676,Solrock,3,Basic Pokémon,,110.0,{F},70.0,1,70.0,False,False,False,False
+1102,Dusk Ball,4,Item,,0.0,,0.0,0,0.0,True,False,False,False
+1142,Fighting Gong,4,Item,,0.0,,0.0,0,0.0,True,False,False,False
+1152,Poké Pad,4,Item,,0.0,,0.0,0,0.0,True,False,False,False
+1141,Premium Power Pro,4,Item,,0.0,,0.0,0,0.0,False,False,False,False
+1123,Switch,2,Item,,0.0,,0.0,0,0.0,False,False,False,False
+1159,Hero’s Cape,1,Pokémon Tool,ACE SPEC,0.0,,0.0,0,0.0,False,False,False,False
+1252,Gravity Mountain,2,Stadium,,0.0,,0.0,0,0.0,False,False,False,False
+674,Hariyama,2,Stage 1 Pokémon,,150.0,{F},210.0,3,70.0,False,False,True,False
+678,Mega Lucario ex,4,Stage 1 Pokémon,Mega Pokémon ex,340.0,{F},270.0,1,135.0,False,False,False,True
+1182,Boss’s Orders,2,Supporter,,0.0,,0.0,0,0.0,False,False,True,False
+1192,Carmine,4,Supporter,,0.0,,0.0,0,0.0,False,True,False,False
+1227,Lillie's Determination,4,Supporter,,0.0,,0.0,0,0.0,False,True,False,False

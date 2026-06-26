@@ -1,0 +1,1058 @@
+card_id,card_name,stage_type,type,hp,max_damage,max_damage_per_energy,min_attack_cost,has_energy_accel,has_gust,has_search,cluster,attacker_score
+107,Palafin ex,Stage 1 Pokémon,{W},340.0,250.0,250.0,1,False,False,False,1,4060.0
+699,Tinkaton,Stage 2 Pokémon,{M},160.0,240.0,240.0,1,False,False,False,1,3864.0
+797,Ceruledge,Stage 1 Pokémon,{R},140.0,220.0,220.0,1,True,False,False,1,3575.0
+40,Greninja ex,Stage 2 Pokémon,{F},310.0,170.0,170.0,1,True,False,True,1,2821.0
+129,Decidueye,Stage 2 Pokémon,{G},150.0,170.0,170.0,1,True,False,False,4,2777.0
+232,Slaking ex,Stage 2 Pokémon,{C},340.0,280.0,140.0,2,True,False,False,1,2467.0
+884,Medicham,Stage 1 Pokémon,{F},120.0,150.0,150.0,1,False,False,False,1,2416.0
+678,Mega Lucario ex,Stage 1 Pokémon,{F},340.0,270.0,135.0,1,True,False,False,1,2390.0
+381,Cynthia's Garchomp ex,Stage 2 Pokémon,{F},330.0,260.0,130.0,1,True,False,False,4,2303.0
+1074,Diggersby,Stage 1 Pokémon,{C},150.0,140.0,140.0,1,False,False,False,1,2262.0
+954,Luxray ex,Stage 2 Pokémon,{L},310.0,250.0,125.0,2,True,False,False,1,2206.0
+189,Flygon ex,Stage 2 Pokémon,{F},310.0,130.0,130.0,1,False,False,False,1,2134.0
+398,Lurantis,Stage 1 Pokémon,{G},120.0,130.0,130.0,1,True,False,False,1,2131.0
+51,Palafin,Stage 1 Pokémon,{W},150.0,130.0,130.0,1,False,False,False,1,2102.0
+224,Annihilape,Stage 2 Pokémon,{F},140.0,130.0,130.0,1,False,False,False,1,2100.0
+934,Centiskorch,Stage 1 Pokémon,{R},130.0,130.0,130.0,1,False,False,False,1,2098.0
+1031,Mega Starmie ex,Stage 1 Pokémon,{W},330.0,210.0,120.0,1,False,True,False,5,2088.0
+904,Mega Dragonite ex,Stage 2 Pokémon,竜,370.0,330.0,110.0,3,True,False,False,1,2065.0
+995,Haxorus,Stage 2 Pokémon,竜,170.0,230.0,115.0,1,True,False,False,1,2016.0
+772,Mega Gengar ex,Stage 2 Pokémon,{D},350.0,230.0,115.0,2,False,False,False,1,2009.0
+932,Mega Emboar ex,Stage 2 Pokémon,{R},380.0,320.0,106.66666666666667,3,False,False,False,1,1972.0
+311,Hop’s Cramorant,Basic Pokémon,{C},110.0,120.0,120.0,1,False,False,False,0,1934.0
+754,Mega Latias ex,Basic Pokémon,竜,280.0,300.0,100.0,1,True,False,False,1,1883.0
+857,Camerupt,Stage 1 Pokémon,{R},140.0,170.0,110.0,1,True,False,False,1,1875.0
+210,Pikachu ex,Basic Pokémon,{L},200.0,300.0,100.0,3,True,False,False,1,1851.0
+728,Inteleon,Stage 2 Pokémon,{W},150.0,110.0,110.0,1,True,False,False,1,1817.0
+326,Blaziken ex,Stage 2 Pokémon,{R},320.0,200.0,100.0,2,True,False,False,1,1783.0
+320,Ceruledge ex,Stage 1 Pokémon,{R},270.0,280.0,93.33333333333333,1,True,False,False,1,1761.0
+121,Dragapult ex,Stage 2 Pokémon,竜,320.0,200.0,100.0,1,False,False,False,1,1756.0
+244,Jolteon ex,Stage 1 Pokémon,{L},260.0,280.0,93.33333333333333,2,True,False,False,1,1751.0
+229,Hydreigon ex,Stage 2 Pokémon,{D},330.0,200.0,100.0,2,False,False,False,1,1750.0
+239,Flareon ex,Stage 1 Pokémon,{R},270.0,280.0,93.33333333333333,2,False,False,True,1,1730.0
+153,Cinderace ex,Stage 2 Pokémon,{R},320.0,280.0,93.33333333333333,3,False,False,False,1,1720.0
+241,Vaporeon ex,Stage 1 Pokémon,{W},280.0,280.0,93.33333333333333,2,False,False,False,1,1720.0
+1180,Core Memory,Pokémon Tool,,0.0,350.0,87.5,4,True,False,False,1,1665.5
+147,Cradily,Stage 2 Pokémon,{G},150.0,100.0,100.0,1,False,False,False,1,1622.0
+695,Mega Mawile ex,Basic Pokémon,{M},270.0,260.0,86.66666666666667,2,False,False,False,1,1598.0
+283,Mamoswine ex,Stage 2 Pokémon,{F},340.0,180.0,90.0,2,False,False,True,1,1594.0
+46,Gouging Fire ex,Basic Pokémon,{R},230.0,260.0,86.66666666666667,2,False,False,False,1,1590.0
+648,Marnie's Grimmsnarl ex,Stage 2 Pokémon,{D},320.0,180.0,90.0,2,False,False,True,1,1590.0
+495,Chandelure,Stage 2 Pokémon,{R},150.0,180.0,90.0,1,True,False,False,1,1587.0
+662,Mega Camerupt ex,Stage 1 Pokémon,{R},340.0,280.0,80.0,1,True,False,False,1,1575.0
+130,Revavroom ex,Stage 1 Pokémon,{L},280.0,250.0,83.33333333333333,1,False,True,False,5,1568.0
+91,Rillaboom,Stage 2 Pokémon,{G},180.0,180.0,90.0,1,False,False,False,1,1558.0
+901,Kingambit,Stage 2 Pokémon,{M},170.0,180.0,90.0,2,False,False,False,2,1548.0
+302,Salamence ex,Stage 2 Pokémon,竜,320.0,300.0,75.0,3,True,False,False,1,1500.0
+115,Conkeldurr,Stage 2 Pokémon,{F},180.0,250.0,80.0,1,False,False,False,1,1478.0
+943,Walrein,Stage 2 Pokémon,{W},170.0,170.0,85.0,1,False,False,False,1,1471.0
+543,Escavalier,Stage 1 Pokémon,{M},130.0,90.0,90.0,1,False,False,False,1,1458.0
+971,Iron Boulder,Basic Pokémon,{P},140.0,170.0,85.0,2,False,False,False,1,1457.0
+602,Sawk,Basic Pokémon,{F},110.0,90.0,90.0,1,False,False,False,3,1454.0
+469,Team Rocket's Raticate,Stage 1 Pokémon,{C},90.0,90.0,90.0,1,False,False,False,0,1450.0
+236,Leafeon ex,Stage 1 Pokémon,{G},270.0,230.0,76.66666666666667,2,False,False,False,1,1418.0
+849,Mega Lopunny ex,Stage 1 Pokémon,{C},330.0,160.0,80.0,1,False,False,False,1,1418.0
+1054,Tyrantrum,Stage 2 Pokémon,{F},180.0,160.0,80.0,2,True,False,False,1,1415.0
+216,Mesprit,Basic Pokémon,{P},70.0,160.0,80.0,1,True,False,False,1,1401.0
+190,Archaludon ex,Stage 1 Pokémon,{M},300.0,220.0,73.33333333333333,3,True,False,False,1,1391.0
+734,Magnezone,Stage 2 Pokémon,{L},160.0,160.0,80.0,1,False,False,False,1,1384.0
+49,Feraligatr,Stage 2 Pokémon,{W},180.0,160.0,80.0,2,False,False,False,2,1380.0
+439,Annihilape,Stage 2 Pokémon,{F},150.0,160.0,80.0,2,False,False,False,2,1374.0
+636,Steven's Claydol,Stage 1 Pokémon,{P},120.0,220.0,73.33333333333333,1,True,False,False,1,1371.0
+193,Alolan Exeggutor ex,Stage 1 Pokémon,竜,300.0,150.0,75.0,2,True,False,False,1,1354.0
+328,Pikachu ex,Basic Pokémon,{L},190.0,220.0,73.33333333333333,1,False,False,False,1,1350.0
+313,Miraidon ex,Basic Pokémon,竜,220.0,220.0,73.33333333333333,2,False,False,False,1,1348.0
+813,Mismagius ex,Stage 1 Pokémon,{P},260.0,150.0,75.0,2,False,True,False,5,1331.0
+336,Zacian ex,Basic Pokémon,{M},220.0,210.0,70.0,1,False,False,True,1,1308.0
+389,Arven's Mabosstiff ex,Stage 1 Pokémon,{D},270.0,210.0,70.0,1,False,False,False,1,1306.0
+835,Empoleon ex,Stage 2 Pokémon,{M},320.0,210.0,70.0,3,False,False,False,1,1300.0
+852,Beautifly,Stage 2 Pokémon,{G},130.0,80.0,80.0,1,False,False,False,3,1298.0
+725,Clawitzer,Stage 1 Pokémon,{W},130.0,210.0,70.0,3,True,False,False,1,1297.0
+290,Tyranitar,Stage 2 Pokémon,{D},190.0,150.0,75.0,2,False,False,False,1,1297.0
+155,Carracosta,Stage 2 Pokémon,{W},160.0,150.0,75.0,2,False,False,False,2,1291.0
+627,Watchog,Stage 1 Pokémon,{C},90.0,80.0,80.0,1,False,False,False,3,1290.0
+723,Mega Abomasnow ex,Stage 1 Pokémon,{W},350.0,200.0,66.66666666666667,2,True,False,False,1,1289.0
+674,Hariyama,Stage 1 Pokémon,{F},150.0,210.0,70.0,3,False,True,False,5,1286.0
+737,Mega Manectric ex,Stage 1 Pokémon,{L},330.0,200.0,66.66666666666667,2,True,False,False,2,1285.0
+1047,Probopass,Stage 1 Pokémon,{F},140.0,260.0,65.0,2,True,False,False,1,1282.0
+1062,Yveltal ex,Basic Pokémon,{D},210.0,210.0,70.0,3,False,False,False,1,1278.0
+641,Steven's Metagross ex,Stage 2 Pokémon,{M},340.0,200.0,66.66666666666667,3,False,False,True,1,1256.0
+939,Mega Feraligatr ex,Stage 2 Pokémon,{W},370.0,200.0,66.66666666666667,3,False,False,False,1,1250.0
+1037,Luxray,Stage 2 Pokémon,{L},150.0,200.0,66.66666666666667,2,True,False,False,1,1249.0
+868,Mega Eelektross ex,Stage 2 Pokémon,{L},350.0,190.0,63.333333333333336,2,True,True,False,5,1249.0
+687,Mega Absol ex,Basic Pokémon,{D},280.0,200.0,66.66666666666667,2,False,False,False,1,1240.0
+527,Excadrill ex,Stage 1 Pokémon,{F},270.0,200.0,66.66666666666667,2,False,False,False,1,1238.0
+1056,Mega Zygarde ex,Basic Pokémon,{F},310.0,200.0,66.66666666666667,3,False,False,False,1,1238.0
+756,Mega Kangaskhan ex,Basic Pokémon,{C},300.0,200.0,66.66666666666667,3,False,False,False,4,1236.0
+979,Koraidon ex,Basic Pokémon,{F},230.0,200.0,66.66666666666667,2,False,False,False,1,1230.0
+828,Mega Sharpedo ex,Stage 1 Pokémon,{D},330.0,120.0,70.0,1,False,False,False,4,1228.0
+70,Shiftry,Stage 2 Pokémon,{G},150.0,140.0,70.0,1,False,False,True,3,1224.0
+184,Latias ex,Basic Pokémon,{P},210.0,200.0,66.66666666666667,3,False,False,False,1,1218.0
+249,Eevee ex,Basic Pokémon,{C},200.0,200.0,66.66666666666667,3,False,False,False,1,1216.0
+179,Black Kyurem ex,Basic Pokémon,{W},230.0,250.0,62.5,3,False,False,False,1,1209.5
+1022,Decidueye ex,Stage 2 Pokémon,{G},320.0,240.0,60.0,4,True,False,False,1,1207.0
+363,Misty's Gyarados,Stage 1 Pokémon,{W},180.0,120.0,70.0,1,False,False,False,1,1198.0
+953,Zapdos,Basic Pokémon,{L},120.0,190.0,63.333333333333336,1,True,False,False,1,1191.0
+906,N's Zekrom,Basic Pokémon,竜,130.0,250.0,62.5,3,False,False,False,1,1189.5
+652,Mega Venusaur ex,Stage 2 Pokémon,{G},380.0,240.0,60.0,4,False,False,False,1,1184.0
+455,Team Rocket's Nidoking ex,Stage 2 Pokémon,{D},330.0,240.0,60.0,3,False,False,False,1,1182.0
+299,Hop’s Zacian ex,Basic Pokémon,{M},230.0,240.0,60.0,1,False,False,False,1,1178.0
+968,Dachsbun ex,Stage 1 Pokémon,{P},250.0,130.0,65.0,2,True,False,False,1,1174.0
+806,Rotom ex,Basic Pokémon,{L},190.0,130.0,65.0,2,True,False,False,1,1162.0
+94,Sinistcha,Stage 1 Pokémon,{G},70.0,70.0,70.0,1,True,False,False,3,1161.0
+794,Reshiram,Basic Pokémon,{R},130.0,240.0,60.0,1,False,False,False,1,1158.0
+139,Munkidori ex,Basic Pokémon,{D},210.0,190.0,63.333333333333336,3,False,False,False,1,1158.0
+167,Klinklang,Stage 2 Pokémon,{M},140.0,130.0,65.0,2,True,False,False,1,1152.0
+269,Iono’s Bellibolt ex,Stage 1 Pokémon,{L},280.0,230.0,57.5,4,True,False,False,1,1151.5
+161,Galvantula ex,Stage 1 Pokémon,{L},260.0,180.0,60.0,2,True,False,False,1,1151.0
+174,Fan Rotom,Basic Pokémon,{C},70.0,70.0,70.0,1,False,False,True,3,1138.0
+680,Toxicroak,Stage 1 Pokémon,{F},130.0,70.0,70.0,1,False,False,False,0,1138.0
+676,Solrock,Basic Pokémon,{F},110.0,70.0,70.0,1,False,False,False,0,1134.0
+847,Linoone,Stage 1 Pokémon,{C},100.0,70.0,70.0,1,False,False,False,3,1132.0
+276,Metagross,Stage 2 Pokémon,{P},170.0,130.0,65.0,1,False,False,False,1,1131.0
+452,Team Rocket's Nidoqueen,Stage 2 Pokémon,{D},170.0,130.0,65.0,1,False,False,False,1,1131.0
+372,Electivire ex,Stage 1 Pokémon,{L},280.0,180.0,60.0,2,False,False,False,1,1120.0
+824,Flygon,Stage 2 Pokémon,{F},150.0,130.0,65.0,2,False,False,False,1,1119.0
+811,Pawmot,Stage 2 Pokémon,{L},140.0,130.0,65.0,2,False,False,False,0,1117.0
+125,Blissey ex,Stage 1 Pokémon,{C},300.0,180.0,60.0,3,False,False,False,4,1116.0
+1002,Zangoose ex,Basic Pokémon,{C},200.0,180.0,60.0,1,False,False,False,4,1112.0
+176,Terapagos ex,Basic Pokémon,{C},230.0,180.0,60.0,2,False,False,False,1,1110.0
+889,Coalossal,Stage 2 Pokémon,{F},180.0,220.0,55.0,1,True,False,False,1,1108.0
+1005,Larry's Staraptor,Stage 2 Pokémon,{C},150.0,150.0,60.0,1,True,False,False,1,1107.0
+1040,Mega Clefable ex,Stage 1 Pokémon,{P},320.0,120.0,60.0,2,True,False,False,1,1103.0
+75,Iron Leaves ex,Basic Pokémon,{G},220.0,180.0,60.0,3,False,False,False,1,1100.0
+1067,Aegislash,Stage 2 Pokémon,{M},150.0,230.0,57.5,3,False,False,False,1,1098.5
+82,Excadrill,Stage 1 Pokémon,{F},130.0,180.0,60.0,1,False,False,False,1,1098.0
+52,Wugtrio ex,Stage 1 Pokémon,{L},250.0,120.0,60.0,1,True,False,False,1,1097.0
+306,Dudunsparce ex,Stage 1 Pokémon,{C},270.0,150.0,60.0,1,False,False,False,1,1096.0
+29,Sinistcha ex,Stage 1 Pokémon,{G},240.0,120.0,60.0,1,True,False,False,1,1095.0
+84,Scizor ex,Stage 1 Pokémon,{M},270.0,120.0,60.0,2,True,False,False,1,1093.0
+766,Mega Diancie ex,Basic Pokémon,{P},270.0,120.0,60.0,2,True,False,False,1,1093.0
+832,Krookodile,Stage 2 Pokémon,{D},170.0,160.0,60.0,1,False,False,False,1,1086.0
+315,Azumarill,Stage 1 Pokémon,{P},120.0,230.0,57.5,4,False,False,False,1,1084.5
+458,Team Rocket's Crobat ex,Stage 2 Pokémon,{D},310.0,120.0,60.0,2,False,False,True,1,1078.0
+409,Team Rocket's Houndoom,Stage 1 Pokémon,{R},130.0,120.0,60.0,1,True,False,False,1,1073.0
+340,Yanmega ex,Stage 1 Pokémon,{G},280.0,210.0,52.5,4,True,False,True,1,1068.5
+781,Mega Heracross ex,Basic Pokémon,{G},280.0,170.0,56.666666666666664,2,False,False,False,1,1060.0
+553,Unfezant,Stage 2 Pokémon,{C},150.0,120.0,60.0,1,False,False,False,4,1042.0
+920,Tapu Bulu,Basic Pokémon,{G},140.0,220.0,55.0,4,False,False,False,1,1041.0
+182,Quaquaval,Stage 2 Pokémon,{W},170.0,120.0,60.0,2,False,False,False,4,1038.0
+375,Manectric,Stage 1 Pokémon,{L},120.0,120.0,60.0,1,False,False,False,3,1036.0
+784,Ludicolo,Stage 2 Pokémon,{G},160.0,120.0,60.0,2,False,False,False,1,1036.0
+531,Throh,Basic Pokémon,{F},130.0,120.0,60.0,2,False,False,False,0,1030.0
+248,Umbreon ex,Stage 1 Pokémon,{D},280.0,160.0,53.333333333333336,3,True,False,False,1,1027.0
+431,Team Rocket's Mewtwo ex,Basic Pokémon,{P},280.0,160.0,53.333333333333336,3,True,False,False,1,1027.0
+513,Eelektross,Stage 2 Pokémon,{L},160.0,100.0,60.0,1,False,False,False,1,1024.0
+490,Victini,Basic Pokémon,{R},80.0,120.0,60.0,2,False,False,False,0,1020.0
+404,Arboliva ex,Stage 2 Pokémon,{G},310.0,160.0,53.333333333333336,1,False,False,False,1,1014.0
+894,Galarian Obstagoon,Stage 2 Pokémon,{D},170.0,160.0,53.333333333333336,2,True,False,False,1,1013.0
+79,Incineroar ex,Stage 2 Pokémon,{R},320.0,240.0,48.0,5,False,True,False,5,1004.0
+896,Mega Scrafty ex,Stage 1 Pokémon,{D},330.0,160.0,53.333333333333336,3,False,False,False,1,1002.0
+911,Erika's Vileplume ex,Stage 2 Pokémon,{G},310.0,160.0,53.333333333333336,3,False,False,False,1,998.0
+802,Mamoswine,Stage 2 Pokémon,{W},180.0,200.0,50.0,3,True,False,False,1,997.0
+984,Mandibuzz ex,Stage 1 Pokémon,{D},260.0,160.0,53.333333333333336,2,False,False,False,1,996.0
+156,Crabominable,Stage 1 Pokémon,{W},160.0,250.0,50.0,5,False,False,False,1,992.0
+223,PalossandEX,Stage 1 Pokémon,{P},280.0,160.0,53.333333333333336,3,False,False,False,1,992.0
+195,Dialga,Basic Pokémon,竜,130.0,160.0,53.333333333333336,1,False,False,True,3,990.0
+207,Milotic ex,Stage 1 Pokémon,{W},270.0,160.0,53.333333333333336,3,False,False,False,1,990.0
+246,Espeon ex,Stage 1 Pokémon,{P},270.0,160.0,53.333333333333336,3,False,False,False,1,990.0
+316,Sylveon ex,Stage 1 Pokémon,{P},270.0,160.0,53.333333333333336,3,False,False,False,1,990.0
+83,Farigiraf ex,Stage 1 Pokémon,{D},260.0,160.0,53.333333333333336,3,False,False,False,1,988.0
+87,Miraidon,Basic Pokémon,竜,110.0,160.0,53.333333333333336,1,False,False,True,3,986.0
+354,Ethan's Typhlosion,Stage 2 Pokémon,{R},170.0,160.0,53.333333333333336,1,False,False,False,1,986.0
+601,Gigalith,Stage 2 Pokémon,{F},170.0,160.0,53.333333333333336,1,False,False,False,1,986.0
+780,Vileplume,Stage 2 Pokémon,{G},150.0,60.0,60.0,1,False,False,False,3,982.0
+259,Volcanion ex,Basic Pokémon,{R},220.0,160.0,53.333333333333336,3,False,False,False,1,980.0
+982,Scolipede,Stage 2 Pokémon,{D},170.0,160.0,53.333333333333336,2,False,False,False,1,978.0
+645,Marnie's Scrafty,Stage 1 Pokémon,{D},120.0,160.0,53.333333333333336,1,False,False,False,3,976.0
+254,Butterfree,Stage 2 Pokémon,{G},120.0,60.0,60.0,1,False,False,False,0,976.0
+1019,Vivillon,Stage 2 Pokémon,{G},120.0,60.0,60.0,1,False,False,False,4,976.0
+240,Seaking,Stage 1 Pokémon,{W},110.0,60.0,60.0,1,False,False,False,4,974.0
+243,Glaceon ex,Stage 1 Pokémon,{W},270.0,110.0,55.0,2,False,False,False,1,973.0
+44,Bloodmoon Ursaluna ex,Basic Pokémon,{C},260.0,240.0,48.0,5,False,False,False,1,972.0
+170,Archaludon,Stage 1 Pokémon,{M},180.0,160.0,53.333333333333336,3,False,False,False,1,972.0
+361,Misty's Starmie,Stage 1 Pokémon,{W},100.0,60.0,60.0,1,False,False,False,0,972.0
+861,Mega Froslass ex,Stage 1 Pokémon,{W},310.0,150.0,50.0,1,False,False,False,1,954.0
+949,Raichu,Stage 1 Pokémon,{L},130.0,150.0,50.0,1,True,False,False,1,953.0
+1024,Talonflame,Stage 2 Pokémon,{R},150.0,110.0,55.0,2,False,False,False,3,949.0
+547,Genesect ex,Basic Pokémon,{M},220.0,150.0,50.0,3,False,False,True,1,932.0
+991,Melmetal,Stage 1 Pokémon,{M},160.0,230.0,46.0,3,False,False,False,1,928.0
+298,Hop’s Corviknight,Stage 2 Pokémon,{M},170.0,150.0,50.0,1,False,False,False,1,926.0
+507,Beartic,Stage 1 Pokémon,{W},150.0,150.0,50.0,1,False,False,False,1,922.0
+23,Hippowdon,Stage 1 Pokémon,{F},160.0,150.0,50.0,2,False,False,False,1,916.0
+787,Lokix,Stage 1 Pokémon,{G},120.0,150.0,50.0,1,False,False,False,3,916.0
+30,Magcargo ex,Stage 1 Pokémon,{R},270.0,140.0,46.666666666666664,2,True,False,False,1,913.0
+504,Carracosta,Stage 2 Pokémon,{W},180.0,150.0,50.0,3,False,False,False,1,912.0
+874,Team Rocket's Exeggutor,Stage 1 Pokémon,{P},140.0,150.0,50.0,2,False,False,False,1,912.0
+747,Mega Gardevoir ex,Stage 2 Pokémon,{P},360.0,50.0,50.0,1,True,False,True,1,911.0
+1033,Aurorus,Stage 2 Pokémon,{W},170.0,150.0,50.0,3,False,False,False,1,910.0
+133,Dusknoir,Stage 2 Pokémon,{P},160.0,150.0,50.0,3,False,False,False,1,908.0
+1026,Salazzle ex,Stage 1 Pokémon,{R},260.0,100.0,50.0,1,False,False,True,3,906.0
+492,Darmanitan,Stage 1 Pokémon,{R},140.0,180.0,45.0,2,True,False,False,1,902.0
+348,Hydrapple,Stage 2 Pokémon,{G},170.0,140.0,46.666666666666664,1,True,False,False,1,901.0
+337,LugiaEX,Basic Pokémon,{C},220.0,140.0,46.666666666666664,3,True,False,False,1,895.0
+442,Team Rocket's Tyranitar,Stage 2 Pokémon,{F},180.0,180.0,45.0,4,True,False,False,1,894.0
+296,N’s Klinklang,Stage 2 Pokémon,{M},160.0,120.0,50.0,1,False,False,False,1,894.0
+99,Hearthflame Mask Ogerpon ex,Basic Pokémon,{R},210.0,140.0,46.666666666666664,3,True,False,False,1,893.0
+940,Glalie,Stage 1 Pokémon,{W},120.0,140.0,46.666666666666664,1,True,False,False,1,891.0
+368,Floatzel,Stage 1 Pokémon,{W},120.0,140.0,46.666666666666664,2,True,False,False,1,883.0
+194,Altaria,Stage 1 Pokémon,竜,120.0,100.0,50.0,1,False,False,True,3,878.0
+471,Team Rocket's Persian ex,Stage 1 Pokémon,{C},260.0,140.0,46.666666666666664,2,False,False,False,1,876.0
+658,Shiftry,Stage 2 Pokémon,{G},160.0,100.0,50.0,1,False,False,False,3,874.0
+138,Okidogi ex,Basic Pokémon,{D},250.0,130.0,43.333333333333336,1,True,False,True,1,869.0
+231,Tatsugiri ex,Basic Pokémon,竜,160.0,100.0,50.0,2,False,False,False,3,866.0
+37,Iron Thorns ex,Basic Pokémon,{L},230.0,140.0,46.666666666666664,3,False,False,False,1,862.0
+604,Archeops,Stage 2 Pokémon,{F},140.0,100.0,50.0,2,False,False,False,3,862.0
+854,Dustox,Stage 2 Pokémon,{G},140.0,100.0,50.0,2,False,False,False,3,862.0
+117,Cornerstone Mask Ogerpon ex,Basic Pokémon,{F},210.0,140.0,46.666666666666664,3,False,False,False,1,858.0
+682,Stonjourner,Basic Pokémon,{F},130.0,140.0,46.666666666666664,1,False,False,False,3,858.0
+790,Mega Charizard X ex,Stage 2 Pokémon,{R},360.0,90.0,45.0,2,True,False,False,1,856.0
+289,Hop’s Sandaconda,Stage 1 Pokémon,{F},140.0,140.0,46.666666666666664,2,False,False,False,1,852.0
+561,Whimsicott ex,Stage 1 Pokémon,{G},230.0,50.0,50.0,1,False,False,True,3,850.0
+565,Accelgor,Stage 1 Pokémon,{G},100.0,50.0,50.0,1,True,False,False,0,847.0
+304,Hop’s Snorlax,Basic Pokémon,{C},150.0,140.0,46.666666666666664,3,False,False,False,2,846.0
+573,Reshiram ex,Basic Pokémon,{R},230.0,130.0,43.333333333333336,2,True,False,False,1,845.0
+587,Galvantula,Stage 1 Pokémon,{L},90.0,50.0,50.0,1,True,False,False,0,845.0
+214,Togekiss,Stage 2 Pokémon,{P},140.0,140.0,46.666666666666664,3,False,False,False,1,844.0
+428,Team Rocket's Ampharos,Stage 2 Pokémon,{L},140.0,140.0,46.666666666666664,3,False,False,False,1,844.0
+494,Lampent,Stage 1 Pokémon,{R},80.0,50.0,50.0,1,True,False,False,0,843.0
+721,Kyogre,Basic Pokémon,{W},150.0,130.0,43.333333333333336,1,True,False,False,1,837.0
+666,Cinderace,Stage 2 Pokémon,{R},160.0,50.0,50.0,1,False,False,True,3,836.0
+872,Tapu Koko,Basic Pokémon,{L},120.0,130.0,43.333333333333336,1,True,False,False,4,831.0
+517,Musharna,Stage 1 Pokémon,{P},120.0,50.0,50.0,1,False,False,True,3,828.0
+618,Hydreigon ex,Stage 2 Pokémon,{D},330.0,200.0,40.0,5,False,False,False,1,826.0
+992,Duraludon,Basic Pokémon,{M},130.0,130.0,43.333333333333336,2,True,False,False,1,825.0
+347,Dipplin,Stage 1 Pokémon,{G},90.0,50.0,50.0,1,False,False,True,3,822.0
+303,N’s Reshiram,Basic Pokémon,竜,130.0,170.0,42.5,2,False,False,False,1,817.5
+446,Medicham,Stage 1 Pokémon,{F},120.0,50.0,50.0,1,False,False,False,0,816.0
+821,Gliscor,Stage 1 Pokémon,{F},120.0,50.0,50.0,1,False,False,False,0,816.0
+900,Bisharp,Stage 1 Pokémon,{M},120.0,50.0,50.0,1,False,False,False,4,816.0
+609,Liepard,Stage 1 Pokémon,{D},110.0,50.0,50.0,1,False,False,False,0,814.0
+1012,Ariados,Stage 1 Pokémon,{G},110.0,50.0,50.0,1,False,False,False,0,814.0
+146,Lileep,Stage 1 Pokémon,{G},100.0,50.0,50.0,1,False,False,False,0,812.0
+509,Kyurem ex,Basic Pokémon,{W},230.0,130.0,43.333333333333336,2,False,False,False,1,810.0
+515,Zekrom ex,Basic Pokémon,{L},230.0,130.0,43.333333333333336,2,False,False,False,1,810.0
+663,Volcanion,Basic Pokémon,{R},130.0,130.0,43.333333333333336,1,False,False,True,3,810.0
+577,Basculin,Basic Pokémon,{W},90.0,50.0,50.0,1,False,False,False,3,810.0
+815,Whimsicott,Stage 1 Pokémon,{P},90.0,50.0,50.0,1,False,False,False,3,810.0
+357,Ethan's Ho-Oh ex,Basic Pokémon,{R},230.0,160.0,40.0,4,True,False,False,1,809.0
+524,Golurk,Stage 1 Pokémon,{P},160.0,200.0,40.0,3,False,False,False,1,808.0
+279,Lillie’s Ribombee,Stage 1 Pokémon,{P},70.0,50.0,50.0,1,False,False,False,3,806.0
+753,Houndstone,Stage 1 Pokémon,{P},140.0,130.0,43.333333333333336,1,False,False,False,1,800.0
+686,Crawdaunt,Stage 1 Pokémon,{D},130.0,130.0,43.333333333333336,1,False,False,False,1,798.0
+867,Glastrier,Basic Pokémon,{W},130.0,130.0,43.333333333333336,1,False,False,False,3,798.0
+1072,Snorlax,Basic Pokémon,{C},160.0,160.0,40.0,1,False,False,True,1,796.0
+566,Virizion,Basic Pokémon,{G},120.0,130.0,43.333333333333336,1,False,False,False,3,796.0
+985,Hoopa,Basic Pokémon,{D},120.0,130.0,43.333333333333336,1,False,False,False,4,796.0
+777,Eternatus,Basic Pokémon,{D},150.0,130.0,43.333333333333336,2,False,False,False,1,794.0
+914,Erika's Victreebel,Stage 2 Pokémon,{G},150.0,130.0,43.333333333333336,2,False,False,False,1,794.0
+62,Koraidon,Basic Pokémon,竜,140.0,130.0,43.333333333333336,2,False,False,False,1,792.0
+685,Garganacl,Stage 2 Pokémon,{F},180.0,130.0,43.333333333333336,3,False,False,False,2,792.0
+171,Raging Bolt,Basic Pokémon,竜,130.0,130.0,43.333333333333336,2,False,False,False,1,790.0
+201,Wo-Chien,Basic Pokémon,{G},130.0,130.0,43.333333333333336,2,False,False,False,1,790.0
+905,Rayquaza,Basic Pokémon,竜,120.0,130.0,43.333333333333336,2,False,False,False,3,788.0
+383,Mudsdale,Stage 1 Pokémon,{F},150.0,130.0,43.333333333333336,3,False,False,False,1,786.0
+969,Scream Tail ex,Basic Pokémon,{P},190.0,120.0,40.0,1,True,False,False,1,785.0
+262,Ludicolo,Stage 2 Pokémon,{W},140.0,130.0,43.333333333333336,3,False,False,False,1,784.0
+559,Leavanny,Stage 2 Pokémon,{G},130.0,90.0,45.0,1,False,False,False,3,783.0
+755,Latios,Basic Pokémon,竜,130.0,130.0,43.333333333333336,3,False,False,False,1,782.0
+537,Scolipede,Stage 2 Pokémon,{D},160.0,90.0,45.0,2,False,False,False,1,781.0
+924,Meowscarada,Stage 2 Pokémon,{G},160.0,90.0,45.0,2,False,False,False,3,781.0
+596,Gothitelle,Stage 2 Pokémon,{P},150.0,90.0,45.0,2,False,False,False,4,779.0
+549,Fraxure,Stage 1 Pokémon,竜,100.0,90.0,45.0,1,False,False,False,3,777.0
+713,Ninjask,Stage 1 Pokémon,{G},80.0,90.0,45.0,2,False,False,True,3,777.0
+175,Bouffalant,Basic Pokémon,{C},100.0,130.0,43.333333333333336,3,False,False,False,1,776.0
+412,Blaziken,Stage 2 Pokémon,{R},170.0,120.0,40.0,2,True,False,False,1,773.0
+110,Slurpuff,Stage 1 Pokémon,{P},120.0,90.0,45.0,2,False,False,False,0,773.0
+58,Great Tusk,Basic Pokémon,{F},140.0,160.0,40.0,2,False,False,False,1,772.0
+579,Swanna,Stage 1 Pokémon,{W},120.0,120.0,40.0,1,True,False,False,3,771.0
+866,Frosmoth,Stage 1 Pokémon,{W},110.0,90.0,45.0,2,False,False,False,3,771.0
+502,Seismitoad,Stage 2 Pokémon,{W},170.0,160.0,40.0,3,False,False,False,1,770.0
+693,Grafaiai,Stage 1 Pokémon,{D},100.0,90.0,45.0,2,False,False,False,0,769.0
+209,Chien-Pao,Basic Pokémon,{W},120.0,120.0,40.0,3,True,False,True,1,767.0
+385,Arven's Toedscruel,Stage 1 Pokémon,{F},140.0,120.0,40.0,1,False,True,False,5,760.0
+233,Bouffalant,Basic Pokémon,{C},130.0,150.0,37.5,2,True,False,False,1,757.5
+957,Miraidon ex,Basic Pokémon,{L},220.0,120.0,40.0,1,False,False,False,3,756.0
+633,Braviary,Stage 1 Pokémon,{C},140.0,130.0,40.0,1,False,False,False,3,750.0
+24,Team Rocket's Kangaskhan ex,Basic Pokémon,{C},230.0,120.0,40.0,2,False,False,False,1,750.0
+751,Xerneas,Basic Pokémon,{P},120.0,120.0,40.0,1,False,False,True,3,748.0
+331,XerneasEX,Basic Pokémon,{P},210.0,120.0,40.0,2,False,False,False,1,746.0
+349,Teal Mask Ogerpon,Basic Pokémon,{G},110.0,120.0,40.0,1,False,False,True,3,746.0
+583,Keldeo ex,Basic Pokémon,{W},210.0,120.0,40.0,2,False,False,False,1,746.0
+886,Mega Hawlucha ex,Basic Pokémon,{F},250.0,120.0,40.0,3,False,False,False,1,746.0
+481,Serperior ex,Stage 2 Pokémon,{G},320.0,150.0,37.5,4,False,False,False,1,744.5
+613,Garbodor,Stage 1 Pokémon,{D},140.0,120.0,40.0,1,False,False,False,3,740.0
+1050,Landorus,Basic Pokémon,{F},120.0,120.0,40.0,2,False,False,True,3,740.0
+447,Regirock ex,Basic Pokémon,{F},230.0,140.0,35.0,1,True,False,False,1,738.0
+944,Regice ex,Basic Pokémon,{W},230.0,140.0,35.0,1,True,False,False,1,738.0
+988,Registeel ex,Basic Pokémon,{M},230.0,140.0,35.0,1,True,False,False,1,738.0
+540,Krookodile,Stage 2 Pokémon,{D},170.0,120.0,40.0,2,False,False,False,1,738.0
+198,Durant ex,Basic Pokémon,{G},190.0,120.0,40.0,3,False,False,False,1,734.0
+864,N's Vanilluxe,Stage 2 Pokémon,{W},150.0,120.0,40.0,2,False,False,False,1,734.0
+840,Archaludon,Stage 1 Pokémon,{M},180.0,120.0,40.0,3,False,False,False,1,732.0
+1008,Larry's Braviary,Stage 1 Pokémon,{C},130.0,120.0,40.0,2,False,False,False,3,730.0
+1010,Drampa,Basic Pokémon,{C},130.0,120.0,40.0,2,False,False,False,3,730.0
+163,Slowking,Stage 1 Pokémon,{P},120.0,120.0,40.0,2,False,False,False,1,728.0
+345,Crustle,Stage 1 Pokémon,{G},150.0,120.0,40.0,3,False,False,False,1,726.0
+623,Klinklang,Stage 2 Pokémon,{M},150.0,120.0,40.0,3,False,False,False,1,726.0
+993,Orthworm ex,Basic Pokémon,{M},220.0,150.0,37.5,4,False,False,False,1,724.5
+514,Thundurus,Basic Pokémon,{L},120.0,110.0,36.666666666666664,1,True,False,True,3,723.0
+829,Seviper,Basic Pokémon,{D},120.0,120.0,40.0,3,False,False,False,2,720.0
+430,Team Rocket's Hypno,Stage 1 Pokémon,{P},130.0,80.0,40.0,1,False,True,False,2,718.0
+598,Jellicent ex,Stage 1 Pokémon,{P},270.0,80.0,40.0,2,False,False,False,1,718.0
+973,Groudon,Basic Pokémon,{F},140.0,150.0,37.5,3,False,False,False,1,716.5
+407,Team Rocket's Moltres ex,Basic Pokémon,{R},220.0,110.0,36.666666666666664,3,True,False,False,1,715.0
+534,Landorus,Basic Pokémon,{F},130.0,110.0,36.666666666666664,1,True,False,False,1,713.0
+718,Centiskorch,Stage 1 Pokémon,{R},140.0,140.0,35.0,2,True,False,False,1,712.0
+154,Lapras ex,Basic Pokémon,{W},220.0,40.0,40.0,1,True,False,False,1,711.0
+990,Togedemaru ex,Basic Pokémon,{M},190.0,80.0,40.0,1,False,False,False,3,710.0
+795,Oricorio ex,Basic Pokémon,{R},190.0,110.0,36.666666666666664,3,True,False,False,1,709.0
+625,Druddigon,Basic Pokémon,竜,120.0,90.0,40.0,1,False,False,False,3,706.0
+897,Pangoro,Stage 1 Pokémon,{D},140.0,80.0,40.0,1,False,False,False,3,700.0
+550,Haxorus,Stage 2 Pokémon,竜,170.0,80.0,40.0,2,False,False,False,1,698.0
+424,Cetitan ex,Stage 1 Pokémon,{W},300.0,140.0,35.0,4,False,False,False,1,693.0
+606,Mienshao,Stage 1 Pokémon,{F},100.0,80.0,40.0,1,False,False,False,3,692.0
+444,Probopass,Stage 1 Pokémon,{F},140.0,70.0,40.0,1,False,False,False,3,690.0
+694,Steelix,Stage 1 Pokémon,{M},200.0,140.0,35.0,2,False,False,False,1,689.0
+819,Paldean Tauros,Basic Pokémon,{F},130.0,70.0,40.0,1,False,False,False,3,688.0
+238,Whimsicott,Stage 1 Pokémon,{G},100.0,40.0,40.0,1,True,False,False,3,687.0
+966,Slurpuff,Stage 1 Pokémon,{P},120.0,70.0,40.0,1,False,False,False,3,686.0
+994,Fraxure,Stage 1 Pokémon,竜,100.0,80.0,40.0,2,False,False,False,3,684.0
+41,Ting-Lu,Basic Pokémon,{F},140.0,110.0,36.666666666666664,1,False,False,False,3,680.0
+422,Barraskewda,Stage 1 Pokémon,{W},130.0,60.0,40.0,1,False,False,False,3,678.0
+785,Genesect,Basic Pokémon,{G},120.0,110.0,36.666666666666664,1,False,False,False,3,676.0
+545,Bisharp,Stage 1 Pokémon,{M},120.0,60.0,40.0,1,False,False,False,3,676.0
+72,Sawsbuck,Stage 1 Pokémon,{G},130.0,110.0,36.666666666666664,3,False,False,True,3,674.0
+689,Yveltal,Basic Pokémon,{D},110.0,110.0,36.666666666666664,1,False,False,False,3,674.0
+520,Reuniclus,Stage 2 Pokémon,{P},140.0,40.0,40.0,1,False,False,True,3,672.0
+226,Koraidon,Basic Pokémon,{F},130.0,110.0,36.666666666666664,2,False,False,False,3,670.0
+63,Raging Bolt ex,Basic Pokémon,竜,240.0,70.0,35.0,1,True,False,False,4,670.0
+137,Zoroark,Stage 1 Pokémon,{D},120.0,110.0,36.666666666666664,2,False,False,False,3,668.0
+710,Meganium,Stage 2 Pokémon,{G},160.0,140.0,35.0,4,False,False,False,1,665.0
+353,Ethan's Quilava,Stage 1 Pokémon,{R},100.0,40.0,40.0,1,False,False,True,3,664.0
+380,Cynthia's Gabite,Stage 1 Pokémon,{F},100.0,40.0,40.0,1,False,False,True,3,664.0
+386,Cornerstone Mask Ogerpon,Basic Pokémon,{F},110.0,100.0,33.333333333333336,1,True,False,True,3,661.0
+61,Roaring Moon,Basic Pokémon,{D},140.0,120.0,35.0,2,False,False,False,3,657.0
+719,Chi-Yu,Basic Pokémon,{R},110.0,40.0,40.0,1,False,False,False,0,654.0
+789,Charmeleon,Stage 1 Pokémon,{R},110.0,40.0,40.0,1,False,False,False,0,654.0
+181,Quaxwell,Stage 1 Pokémon,{W},100.0,40.0,40.0,1,False,False,False,0,652.0
+771,Haunter,Stage 1 Pokémon,{D},100.0,40.0,40.0,1,False,False,False,0,652.0
+1001,Delcatty,Stage 1 Pokémon,{C},100.0,40.0,40.0,1,False,False,False,3,652.0
+1015,Servine,Stage 1 Pokémon,{G},100.0,40.0,40.0,1,False,False,False,0,652.0
+196,Turtonator,Basic Pokémon,竜,120.0,100.0,33.333333333333336,1,True,False,False,1,651.0
+634,Tornadus,Basic Pokémon,{C},120.0,100.0,33.333333333333336,1,True,False,False,3,651.0
+834,Toxtricity,Stage 1 Pokémon,{D},140.0,100.0,33.333333333333336,3,True,False,True,1,651.0
+1070,Raticate,Stage 1 Pokémon,{C},90.0,40.0,40.0,1,False,False,False,3,650.0
+113,Timburr,Basic Pokémon,{F},80.0,40.0,40.0,1,False,False,False,0,648.0
+552,Tranquill,Stage 1 Pokémon,{C},80.0,40.0,40.0,1,False,False,False,0,648.0
+26,Leafeon,Stage 1 Pokémon,{G},120.0,70.0,35.0,1,True,False,False,3,646.0
+25,Pinsir,Basic Pokémon,{G},110.0,100.0,33.333333333333336,2,True,False,False,1,641.0
+135,Bloodmoon Ursaluna,Basic Pokémon,{F},150.0,100.0,33.333333333333336,3,True,False,False,1,641.0
+620,Ferrothorn,Stage 1 Pokémon,{M},140.0,130.0,32.5,1,False,False,False,3,637.5
+108,Wellspring Mask Ogerpon ex,Basic Pokémon,{W},210.0,100.0,33.333333333333336,1,False,False,False,3,634.0
+975,Stunfisk ex,Basic Pokémon,{F},210.0,100.0,33.333333333333336,1,False,False,False,3,634.0
+563,Sawsbuck,Stage 1 Pokémon,{G},130.0,100.0,33.333333333333336,2,False,True,False,5,630.0
+700,Gholdengo,Stage 1 Pokémon,{M},130.0,100.0,33.333333333333336,1,False,False,True,3,630.0
+21,Scrafty,Stage 1 Pokémon,{D},120.0,100.0,33.333333333333336,1,False,False,True,3,628.0
+27,Iron Leaves,Basic Pokémon,{G},120.0,100.0,33.333333333333336,1,False,False,True,3,628.0
+234,Terapagos,Basic Pokémon,{C},120.0,100.0,33.333333333333336,1,False,False,True,3,628.0
+370,Wellspring Mask Ogerpon,Basic Pokémon,{W},110.0,100.0,33.333333333333336,1,False,False,True,3,626.0
+1016,Serperior,Stage 2 Pokémon,{G},160.0,100.0,33.333333333333336,1,False,False,False,3,624.0
+1049,Hippowdon,Stage 1 Pokémon,{F},150.0,130.0,32.5,3,False,False,False,1,623.5
+631,Bouffalant ex,Basic Pokémon,{C},220.0,100.0,33.333333333333336,3,False,False,False,1,620.0
+332,Dhelmise,Basic Pokémon,{P},130.0,130.0,32.5,3,False,False,False,1,619.5
+191,Gholdengo,Stage 1 Pokémon,{M},130.0,100.0,33.333333333333336,1,False,False,False,3,618.0
+219,Cofagrigus,Stage 1 Pokémon,{P},120.0,100.0,33.333333333333336,1,False,False,False,3,616.0
+585,Zebstrika,Stage 1 Pokémon,{L},120.0,100.0,33.333333333333336,1,False,False,False,3,616.0
+55,Bronzong,Stage 1 Pokémon,{P},110.0,100.0,33.333333333333336,1,False,False,False,3,614.0
+460,Team Rocket's Muk,Stage 1 Pokémon,{D},150.0,100.0,33.333333333333336,2,False,False,False,1,614.0
+406,Arcanine,Stage 1 Pokémon,{R},140.0,100.0,33.333333333333336,2,False,False,False,1,612.0
+607,Terrakion,Basic Pokémon,{F},140.0,100.0,33.333333333333336,2,False,False,False,1,612.0
+1061,Drapion,Stage 1 Pokémon,{D},140.0,100.0,33.333333333333336,2,False,False,False,1,612.0
+32,Glaceon,Stage 1 Pokémon,{W},120.0,70.0,35.0,1,False,False,False,3,611.0
+740,Heliolisk,Stage 1 Pokémon,{L},120.0,70.0,35.0,1,False,False,False,3,611.0
+192,Iron Crown,Basic Pokémon,{M},130.0,100.0,33.333333333333336,2,False,False,False,3,610.0
+318,Ho-Oh,Basic Pokémon,{R},130.0,100.0,33.333333333333336,2,False,False,False,3,610.0
+761,Bewear,Stage 1 Pokémon,{C},130.0,100.0,33.333333333333336,2,False,False,False,1,610.0
+891,Team Rocket's Honchkrow,Stage 1 Pokémon,{D},130.0,100.0,33.333333333333336,2,False,False,False,3,610.0
+951,Voltorb ex,Basic Pokémon,{L},170.0,100.0,33.333333333333336,3,False,False,False,0,610.0
+569,Emboar,Stage 2 Pokémon,{R},180.0,120.0,30.0,4,True,False,False,1,609.0
+120,Drakloak,Stage 1 Pokémon,竜,90.0,70.0,35.0,2,False,False,True,3,609.0
+670,Sandslash,Stage 1 Pokémon,{F},120.0,100.0,33.333333333333336,2,False,False,False,3,608.0
+842,Wigglytuff,Stage 1 Pokémon,{C},120.0,100.0,33.333333333333336,2,False,False,False,3,608.0
+958,Clefable,Stage 1 Pokémon,{P},120.0,100.0,33.333333333333336,2,False,False,False,3,608.0
+477,Swellow,Stage 1 Pokémon,{C},100.0,70.0,35.0,1,False,False,False,4,607.0
+369,Dondozo ex,Basic Pokémon,{W},260.0,120.0,30.0,2,False,False,False,2,606.0
+116,Okidogi,Basic Pokémon,{F},130.0,70.0,35.0,2,False,False,False,2,605.0
+273,Banette,Stage 1 Pokémon,{P},90.0,70.0,35.0,1,False,False,False,3,605.0
+799,Dewgong,Stage 1 Pokémon,{W},130.0,70.0,35.0,2,False,False,False,3,605.0
+808,Boltund,Stage 1 Pokémon,{L},130.0,70.0,35.0,2,False,False,False,0,605.0
+913,Erika's Weepinbell,Stage 1 Pokémon,{G},90.0,70.0,35.0,1,False,False,False,3,605.0
+266,Iono’s Electrode,Stage 1 Pokémon,{L},100.0,100.0,33.333333333333336,2,False,False,False,3,604.0
+908,Noivern,Stage 1 Pokémon,竜,120.0,70.0,35.0,2,False,False,False,3,603.0
+102,Milotic,Stage 1 Pokémon,{W},120.0,100.0,33.333333333333336,3,False,False,False,3,600.0
+330,Sylveon,Stage 1 Pokémon,{P},120.0,100.0,33.333333333333336,3,False,False,False,3,600.0
+483,Simisage,Stage 1 Pokémon,{G},100.0,70.0,35.0,2,False,False,False,0,599.0
+499,Simipour,Stage 1 Pokémon,{W},100.0,70.0,35.0,2,False,False,False,0,599.0
+571,Simisear,Stage 1 Pokémon,{R},100.0,70.0,35.0,2,False,False,False,0,599.0
+640,Steven's Metang,Stage 1 Pokémon,{M},100.0,70.0,35.0,2,False,False,False,0,599.0
+643,Marnie's Liepard,Stage 1 Pokémon,{D},100.0,70.0,35.0,2,False,False,False,0,599.0
+142,Genesect,Basic Pokémon,{M},110.0,100.0,33.333333333333336,3,False,False,False,3,598.0
+261,Lombre,Stage 1 Pokémon,{W},90.0,70.0,35.0,2,False,False,False,0,597.0
+258,N’s Darmanitan,Stage 1 Pokémon,{R},140.0,90.0,30.0,2,True,False,False,1,587.0
+707,Tangrowth,Stage 1 Pokémon,{G},150.0,120.0,30.0,2,False,False,False,1,584.0
+419,Abomasnow,Stage 1 Pokémon,{W},150.0,120.0,30.0,3,False,False,False,1,576.0
+134,Sylveon,Stage 1 Pokémon,{P},120.0,90.0,30.0,1,False,True,False,5,576.0
+213,Tapu Koko,Basic Pokémon,{L},120.0,90.0,30.0,1,False,False,True,3,568.0
+764,Cresselia,Basic Pokémon,{P},120.0,90.0,30.0,1,False,False,True,3,568.0
+987,Mawile,Basic Pokémon,{M},90.0,90.0,30.0,1,False,False,True,3,562.0
+879,Hop's Trevenant,Stage 1 Pokémon,{P},140.0,90.0,30.0,1,False,False,False,3,560.0
+582,Vanilluxe,Stage 2 Pokémon,{W},150.0,90.0,30.0,2,False,False,False,3,554.0
+600,Boldore,Stage 1 Pokémon,{F},110.0,90.0,30.0,1,False,False,False,3,554.0
+731,Eiscue,Basic Pokémon,{W},110.0,90.0,30.0,1,False,False,False,3,554.0
+1041,Mawile,Basic Pokémon,{P},110.0,60.0,30.0,2,True,False,False,0,551.0
+763,Granbull,Stage 1 Pokémon,{P},130.0,90.0,30.0,2,False,False,False,3,550.0
+1034,Volcanion,Basic Pokémon,{W},130.0,90.0,30.0,2,False,False,False,3,550.0
+696,Dialga,Basic Pokémon,{M},140.0,80.0,30.0,1,False,False,False,2,550.0
+395,Breloom,Stage 1 Pokémon,{G},120.0,90.0,30.0,2,False,False,False,3,548.0
+472,Kangaskhan,Basic Pokémon,{C},120.0,90.0,30.0,2,False,False,False,3,548.0
+169,Duraludon,Basic Pokémon,{M},130.0,80.0,30.0,1,False,False,False,3,548.0
+39,Enamorus,Basic Pokémon,{P},120.0,80.0,30.0,1,False,False,False,3,546.0
+66,Dudunsparce,Stage 1 Pokémon,{C},140.0,90.0,30.0,3,False,False,False,4,544.0
+568,Pignite,Stage 1 Pokémon,{R},110.0,80.0,30.0,1,False,False,False,3,544.0
+256,Magmortar,Stage 1 Pokémon,{R},130.0,90.0,30.0,3,False,False,False,1,542.0
+78,Torracat,Stage 1 Pokémon,{R},100.0,80.0,30.0,1,False,False,False,3,542.0
+503,Tirtouga,Stage 1 Pokémon,{W},100.0,80.0,30.0,1,False,False,False,3,542.0
+308,Hop’s Corvisquire,Stage 1 Pokémon,{C},90.0,80.0,30.0,1,False,False,False,3,540.0
+630,Stoutland,Stage 2 Pokémon,{C},160.0,100.0,25.0,2,True,False,True,1,538.0
+542,Mandibuzz,Stage 1 Pokémon,{D},110.0,90.0,30.0,3,False,False,False,3,538.0
+572,Heatmor,Basic Pokémon,{R},120.0,60.0,30.0,1,False,False,True,3,538.0
+364,Misty's Lapras,Basic Pokémon,{W},110.0,60.0,30.0,1,False,False,True,3,536.0
+56,Flutter Mane,Basic Pokémon,{P},90.0,90.0,30.0,3,False,False,False,3,534.0
+329,Tapu Koko ex,Basic Pokémon,{L},200.0,60.0,30.0,2,False,False,False,0,534.0
+123,Farfetch'd,Basic Pokémon,{C},70.0,30.0,30.0,1,True,False,True,3,533.0
+774,Honchkrow,Stage 1 Pokémon,{D},130.0,30.0,30.0,1,True,False,False,3,533.0
+485,Lilligant,Stage 1 Pokémon,{G},100.0,70.0,30.0,1,False,False,False,3,532.0
+141,Pecharunt ex,Basic Pokémon,{D},190.0,60.0,30.0,2,False,False,False,3,532.0
+124,Chansey,Basic Pokémon,{C},120.0,80.0,26.666666666666668,1,True,False,False,3,531.0
+546,Cobalion,Basic Pokémon,{M},120.0,80.0,26.666666666666668,1,True,False,False,3,531.0
+880,Spectrier,Basic Pokémon,{P},120.0,30.0,30.0,1,True,False,False,3,531.0
+203,Skeledirge,Stage 2 Pokémon,{R},180.0,60.0,30.0,2,False,False,False,1,530.0
+654,Exeggutor,Stage 1 Pokémon,{G},140.0,60.0,30.0,1,False,False,False,3,530.0
+173,Noctowl,Stage 1 Pokémon,{C},100.0,60.0,30.0,2,False,False,True,3,526.0
+312,Sandy Shocks,Basic Pokémon,{F},120.0,60.0,30.0,1,False,False,False,3,526.0
+489,Amoonguss,Stage 1 Pokémon,{G},120.0,60.0,30.0,1,False,False,False,3,526.0
+660,Ninetales,Stage 1 Pokémon,{R},120.0,60.0,30.0,1,False,False,False,3,526.0
+691,Thievul,Stage 1 Pokémon,{D},120.0,60.0,30.0,1,False,False,False,4,526.0
+903,Dragonair,Stage 1 Pokémon,竜,100.0,60.0,30.0,2,False,False,True,3,526.0
+416,Huntail,Stage 1 Pokémon,{W},110.0,80.0,26.666666666666668,3,True,False,True,3,525.0
+148,Mow Rotom,Basic Pokémon,{G},90.0,30.0,30.0,1,True,False,False,0,525.0
+417,Gorebyss,Stage 1 Pokémon,{W},90.0,30.0,30.0,1,True,False,False,0,525.0
+698,Tinkatuff,Stage 1 Pokémon,{M},90.0,30.0,30.0,1,True,False,False,3,525.0
+31,Chi-Yu,Basic Pokémon,{R},110.0,60.0,30.0,1,False,False,False,4,524.0
+466,Skarmory,Basic Pokémon,{M},110.0,60.0,30.0,1,False,False,False,3,524.0
+759,Lopunny,Stage 1 Pokémon,{C},110.0,60.0,30.0,1,False,False,False,3,524.0
+776,Absol,Basic Pokémon,{D},110.0,60.0,30.0,1,False,False,False,4,524.0
+576,Samurott,Stage 2 Pokémon,{W},160.0,30.0,30.0,1,False,True,False,5,524.0
+529,Gurdurr,Stage 1 Pokémon,{F},100.0,60.0,30.0,1,False,False,False,3,522.0
+831,Krokorok,Stage 1 Pokémon,{D},100.0,60.0,30.0,1,False,False,False,3,522.0
+942,Sealeo,Stage 1 Pokémon,{W},100.0,60.0,30.0,1,False,False,False,3,522.0
+352,Ethan's Cyndaquil,Basic Pokémon,{R},70.0,30.0,30.0,1,True,False,False,0,521.0
+152,Raboot,Stage 1 Pokémon,{R},90.0,60.0,30.0,1,False,False,False,3,520.0
+366,Cynthia's Milotic,Stage 1 Pokémon,{W},130.0,60.0,30.0,2,False,False,False,0,520.0
+916,Scyther,Basic Pokémon,{G},90.0,60.0,30.0,1,False,False,False,3,520.0
+1029,Dewgong,Stage 1 Pokémon,{W},130.0,60.0,30.0,2,False,False,False,3,520.0
+611,Scrafty,Stage 1 Pokémon,{D},120.0,60.0,30.0,2,False,False,False,0,518.0
+390,Tauros,Basic Pokémon,{C},130.0,50.0,30.0,1,False,False,False,3,518.0
+1052,Barbaracle,Stage 1 Pokémon,{F},130.0,80.0,26.666666666666668,3,True,False,False,1,517.0
+159,Veluza,Basic Pokémon,{W},130.0,110.0,27.5,4,False,False,False,1,516.5
+112,Munkidori,Basic Pokémon,{P},110.0,60.0,30.0,2,False,False,False,3,516.0
+351,Rapidash,Stage 1 Pokémon,{R},110.0,60.0,30.0,2,False,False,False,4,516.0
+651,Ivysaur,Stage 1 Pokémon,{G},110.0,60.0,30.0,2,False,False,False,0,516.0
+876,Mismagius,Stage 1 Pokémon,{P},110.0,60.0,30.0,2,False,False,False,0,516.0
+615,Zoroark,Stage 1 Pokémon,{D},120.0,30.0,30.0,1,False,True,False,5,516.0
+1027,Turtonator,Basic Pokémon,{R},120.0,80.0,26.666666666666668,3,True,False,False,1,515.0
+647,Marnie's Morgrem,Stage 1 Pokémon,{D},100.0,60.0,30.0,2,False,False,False,0,514.0
+918,Bayleef,Stage 1 Pokémon,{G},100.0,60.0,30.0,2,False,False,False,0,514.0
+1066,Doublade,Stage 1 Pokémon,{M},100.0,60.0,30.0,2,False,False,False,0,514.0
+104,Froslass,Stage 1 Pokémon,{W},90.0,60.0,30.0,2,False,False,False,3,512.0
+166,Klang,Stage 1 Pokémon,{M},90.0,60.0,30.0,2,False,False,False,0,512.0
+285,Pupitar,Stage 1 Pokémon,{F},90.0,60.0,30.0,2,False,False,False,0,512.0
+523,Golett,Basic Pokémon,{P},90.0,60.0,30.0,2,False,False,False,0,512.0
+681,Marshadow,Basic Pokémon,{F},90.0,60.0,30.0,2,False,False,False,0,512.0
+810,Pawmo,Stage 1 Pokémon,{L},90.0,60.0,30.0,2,False,False,False,0,512.0
+823,Vibrava,Stage 1 Pokémon,{F},90.0,60.0,30.0,2,False,False,False,0,512.0
+826,Weavile,Stage 1 Pokémon,{D},90.0,60.0,30.0,2,False,False,False,3,512.0
+1023,Fletchinder,Stage 1 Pokémon,{R},90.0,60.0,30.0,2,False,False,False,0,512.0
+275,Metang,Stage 1 Pokémon,{P},100.0,50.0,30.0,1,False,False,False,3,512.0
+657,Nuzleaf,Stage 1 Pokémon,{G},100.0,50.0,30.0,1,False,False,False,3,512.0
+525,Meloetta ex,Basic Pokémon,{P},200.0,30.0,30.0,1,False,False,False,3,512.0
+997,Larry's Dudunsparce ex,Stage 1 Pokémon,{C},270.0,80.0,26.666666666666668,3,False,False,False,1,510.0
+508,Cryogonal,Basic Pokémon,{W},90.0,30.0,30.0,1,False,True,False,5,510.0
+178,Zarude,Basic Pokémon,{G},120.0,80.0,26.666666666666668,1,False,False,True,2,508.0
+358,Hearthflame Mask Ogerpon,Basic Pokémon,{R},110.0,80.0,26.666666666666668,1,False,False,True,3,506.0
+441,Team Rocket's Pupitar,Stage 1 Pokémon,{F},100.0,30.0,30.0,1,False,False,True,3,504.0
+746,Kirlia,Stage 1 Pokémon,{P},100.0,30.0,30.0,1,False,False,True,3,504.0
+101,Jynx,Basic Pokémon,{W},90.0,30.0,30.0,1,False,False,True,3,502.0
+851,Silcoon,Stage 1 Pokémon,{G},90.0,30.0,30.0,1,False,False,True,3,502.0
+310,Hop’s Dubwool,Stage 1 Pokémon,{C},120.0,80.0,26.666666666666668,3,False,True,False,5,500.0
+890,Okidogi,Basic Pokémon,{F},140.0,80.0,26.666666666666668,1,False,False,False,3,500.0
+655,Celebi,Basic Pokémon,{G},80.0,30.0,30.0,1,False,False,True,3,500.0
+838,Togedemaru,Basic Pokémon,{M},80.0,30.0,30.0,1,False,False,True,3,500.0
+98,Chandelure,Stage 2 Pokémon,{R},130.0,30.0,30.0,1,False,False,False,4,498.0
+222,Dedenne,Basic Pokémon,{P},70.0,30.0,30.0,1,False,False,True,3,498.0
+280,Lillie’s Comfey,Basic Pokémon,{P},70.0,30.0,30.0,1,False,False,True,3,498.0
+519,Duosion,Stage 1 Pokémon,{P},70.0,30.0,30.0,1,False,False,True,3,498.0
+1013,Shaymin,Basic Pokémon,{G},70.0,30.0,30.0,1,False,False,True,3,498.0
+1063,Chien-Pao,Basic Pokémon,{D},120.0,80.0,26.666666666666668,1,False,False,False,3,496.0
+970,Fezandipiti,Basic Pokémon,{P},120.0,30.0,30.0,1,False,False,False,3,496.0
+221,Meowstic,Stage 1 Pokémon,{P},90.0,80.0,26.666666666666668,3,False,True,False,5,494.0
+869,Stunfisk,Basic Pokémon,{L},110.0,30.0,30.0,1,False,False,False,0,494.0
+38,Girafarig,Basic Pokémon,{P},100.0,30.0,30.0,1,False,False,False,0,492.0
+536,Whirlipede,Stage 1 Pokémon,{D},100.0,30.0,30.0,1,False,False,False,0,492.0
+554,Audino,Basic Pokémon,{C},100.0,30.0,30.0,1,False,False,False,4,492.0
+575,Dewott,Stage 1 Pokémon,{W},100.0,30.0,30.0,1,False,False,False,0,492.0
+702,Fearow,Stage 1 Pokémon,{C},100.0,30.0,30.0,1,False,False,False,0,492.0
+727,Drizzile,Stage 1 Pokémon,{W},100.0,30.0,30.0,1,False,False,False,0,492.0
+1043,Meowstic,Stage 1 Pokémon,{P},100.0,30.0,30.0,1,False,False,False,3,492.0
+522,Beheeyem,Stage 1 Pokémon,{P},90.0,80.0,26.666666666666668,1,False,False,False,3,490.0
+48,Croconaw,Stage 1 Pokémon,{W},90.0,30.0,30.0,1,False,False,False,0,490.0
+128,Dartrix,Stage 1 Pokémon,{G},90.0,30.0,30.0,1,False,False,False,3,490.0
+733,Magneton,Stage 1 Pokémon,{L},90.0,30.0,30.0,1,False,False,False,0,490.0
+1076,Furfrou,Basic Pokémon,{C},90.0,30.0,30.0,1,False,False,False,3,490.0
+200,Spewpa,Stage 1 Pokémon,{G},80.0,30.0,30.0,1,False,False,False,3,488.0
+457,Team Rocket's Golbat,Stage 1 Pokémon,{D},80.0,30.0,30.0,1,False,False,False,3,488.0
+677,Riolu,Basic Pokémon,{F},80.0,30.0,30.0,1,False,False,False,0,488.0
+742,Kadabra,Stage 1 Pokémon,{P},80.0,30.0,30.0,1,False,False,False,4,488.0
+533,Crustle,Stage 1 Pokémon,{F},150.0,80.0,26.666666666666668,3,False,False,False,1,486.0
+952,Zapdos,Basic Pokémon,{L},110.0,80.0,26.666666666666668,2,False,False,False,3,486.0
+105,Finizen,Basic Pokémon,{W},70.0,30.0,30.0,1,False,False,False,0,486.0
+359,Misty's Psyduck,Basic Pokémon,{W},70.0,30.0,30.0,1,False,False,False,3,486.0
+384,Arven's Toedscool,Basic Pokémon,{F},70.0,30.0,30.0,1,False,False,False,0,486.0
+421,Arrokuda,Basic Pokémon,{W},70.0,30.0,30.0,1,False,False,False,0,486.0
+437,Mankey,Basic Pokémon,{F},70.0,30.0,30.0,1,False,False,False,0,486.0
+450,Team Rocket's Nidoran♀,Basic Pokémon,{D},70.0,30.0,30.0,1,False,False,False,0,486.0
+614,Zorua,Basic Pokémon,{D},70.0,30.0,30.0,1,False,False,False,0,486.0
+664,Scorbunny,Basic Pokémon,{R},70.0,30.0,30.0,1,False,False,False,0,486.0
+726,Sobble,Basic Pokémon,{W},70.0,30.0,30.0,1,False,False,False,0,486.0
+736,Electrike,Basic Pokémon,{L},70.0,30.0,30.0,1,False,False,False,0,486.0
+827,Carvanha,Basic Pokémon,{D},70.0,30.0,30.0,1,False,False,False,0,486.0
+846,Zigzagoon,Basic Pokémon,{C},70.0,30.0,30.0,1,False,False,False,0,486.0
+1014,Snivy,Basic Pokémon,{G},70.0,30.0,30.0,1,False,False,False,0,486.0
+1055,Hawlucha,Basic Pokémon,{F},70.0,30.0,30.0,1,False,False,False,0,486.0
+1057,Gastly,Basic Pokémon,{D},70.0,30.0,30.0,1,False,False,False,0,486.0
+1068,Klefki,Basic Pokémon,{M},70.0,30.0,30.0,1,False,False,False,0,486.0
+158,Drednaw,Stage 1 Pokémon,{W},140.0,80.0,26.666666666666668,3,False,False,False,1,484.0
+301,Shelgon,Stage 1 Pokémon,竜,100.0,80.0,26.666666666666668,2,False,False,False,3,484.0
+909,Erika's Oddish,Basic Pokémon,{G},60.0,30.0,30.0,1,False,False,False,0,484.0
+671,Onix,Basic Pokémon,{F},120.0,100.0,25.0,2,False,False,False,1,483.0
+225,Gastrodon,Stage 1 Pokémon,{F},130.0,80.0,26.666666666666668,3,False,False,False,1,482.0
+342,Cynthia's Roserade,Stage 1 Pokémon,{G},130.0,80.0,26.666666666666668,3,False,False,False,2,482.0
+73,Rellor,Basic Pokémon,{G},50.0,30.0,30.0,1,False,False,False,0,482.0
+400,Team Rocket's Tarountula,Basic Pokémon,{G},50.0,30.0,30.0,1,False,False,False,0,482.0
+617,Zweilous,Stage 1 Pokémon,{D},110.0,100.0,25.0,2,False,False,False,3,481.0
+586,Joltik,Basic Pokémon,{L},40.0,30.0,30.0,1,False,False,False,0,480.0
+1069,Rattata,Basic Pokémon,{C},40.0,30.0,30.0,1,False,False,False,0,480.0
+818,Brambleghast,Stage 1 Pokémon,{P},100.0,80.0,26.666666666666668,3,False,False,False,3,476.0
+251,Regigigas,Basic Pokémon,{C},160.0,100.0,25.0,4,False,False,False,1,475.0
+637,Steven's Carbink,Basic Pokémon,{P},80.0,80.0,26.666666666666668,3,False,False,False,3,472.0
+530,Conkeldurr,Stage 2 Pokémon,{F},140.0,100.0,25.0,4,False,False,False,1,471.0
+919,Mega Meganium ex,Stage 2 Pokémon,{G},360.0,70.0,23.333333333333332,3,False,False,False,1,468.0
+871,Heliolisk,Stage 1 Pokémon,{L},120.0,70.0,23.333333333333332,3,True,False,True,3,467.0
+675,Lunatone,Basic Pokémon,{F},110.0,50.0,25.0,2,True,False,False,4,466.0
+844,Ambipom,Stage 1 Pokémon,{C},110.0,50.0,25.0,2,True,False,False,3,466.0
+938,Croconaw,Stage 1 Pokémon,{W},100.0,50.0,25.0,2,True,False,False,0,464.0
+204,Charcadet,Basic Pokémon,{R},80.0,70.0,23.333333333333332,1,True,False,False,3,463.0
+356,Ethan's Magcargo,Stage 1 Pokémon,{R},130.0,70.0,23.333333333333332,3,True,False,False,1,457.0
+839,Duraludon,Basic Pokémon,{M},130.0,70.0,23.333333333333332,3,True,False,False,1,457.0
+271,Iono’s Kilowattrel,Stage 1 Pokémon,{L},120.0,70.0,23.333333333333332,3,True,False,False,4,455.0
+497,Volcarona,Stage 1 Pokémon,{R},120.0,70.0,23.333333333333332,3,True,False,False,1,455.0
+709,Bayleef,Stage 1 Pokémon,{G},110.0,50.0,25.0,2,False,True,False,5,451.0
+720,Mantine,Basic Pokémon,{W},110.0,50.0,25.0,1,False,False,True,3,451.0
+629,Herdier,Stage 1 Pokémon,{C},90.0,70.0,23.333333333333332,1,False,True,False,5,450.0
+451,Team Rocket's Nidorina,Stage 1 Pokémon,{D},90.0,50.0,25.0,1,False,False,True,3,447.0
+590,Swoobat,Stage 1 Pokémon,{P},90.0,50.0,25.0,1,False,False,True,3,447.0
+392,Arven's Greedent,Stage 1 Pokémon,{C},120.0,50.0,25.0,2,False,False,True,3,445.0
+1045,Aromatisse,Stage 1 Pokémon,{P},120.0,50.0,25.0,2,False,False,True,3,445.0
+90,Thwackey,Stage 1 Pokémon,{G},100.0,50.0,25.0,2,False,False,True,3,441.0
+588,Stunfisk,Basic Pokémon,{L},110.0,50.0,25.0,1,False,False,False,3,439.0
+624,Durant,Basic Pokémon,{M},110.0,50.0,25.0,1,False,False,False,3,439.0
+282,Piloswine,Stage 1 Pokémon,{F},100.0,50.0,25.0,1,False,False,False,3,437.0
+486,Maractus,Basic Pokémon,{G},100.0,50.0,25.0,1,False,False,False,3,437.0
+915,Erika's Tangela,Basic Pokémon,{G},80.0,50.0,25.0,2,False,False,True,3,437.0
+972,Hitmontop,Basic Pokémon,{F},100.0,50.0,25.0,1,False,False,False,4,437.0
+338,Ethan's Pinsir,Basic Pokémon,{G},120.0,70.0,23.333333333333332,1,False,False,False,3,436.0
+122,Tatsugiri,Basic Pokémon,竜,70.0,50.0,25.0,2,False,False,True,3,435.0
+188,Vibrava,Stage 1 Pokémon,{F},90.0,50.0,25.0,1,False,False,False,3,435.0
+765,Meloetta,Basic Pokémon,{P},90.0,50.0,25.0,1,False,False,False,3,435.0
+816,Zacian,Basic Pokémon,{P},130.0,50.0,25.0,2,False,False,False,0,435.0
+893,Galarian Linoone,Stage 1 Pokémon,{D},90.0,50.0,25.0,1,False,False,False,3,435.0
+1004,Larry's Staravia,Stage 1 Pokémon,{C},90.0,50.0,25.0,1,False,False,False,3,435.0
+45,Shaymin,Basic Pokémon,{G},70.0,50.0,25.0,1,False,False,False,3,431.0
+180,Bruxish,Basic Pokémon,{W},110.0,50.0,25.0,2,False,False,False,3,431.0
+300,Bagon,Basic Pokémon,竜,70.0,50.0,25.0,1,False,False,False,3,431.0
+684,Naclstack,Stage 1 Pokémon,{F},110.0,50.0,25.0,2,False,False,False,0,431.0
+126,Galvantula,Stage 1 Pokémon,{G},100.0,50.0,25.0,2,False,False,False,2,429.0
+705,Gumshoos,Stage 1 Pokémon,{C},100.0,50.0,25.0,2,False,False,False,3,429.0
+882,Team Rocket's Dugtrio,Stage 1 Pokémon,{F},100.0,50.0,25.0,2,False,False,False,3,429.0
+927,Charmeleon,Stage 1 Pokémon,{R},100.0,50.0,25.0,2,False,False,False,0,429.0
+1032,Amaura,Stage 1 Pokémon,{W},100.0,50.0,25.0,2,False,False,False,0,429.0
+132,Dusclops,Stage 1 Pokémon,{P},90.0,50.0,25.0,2,False,False,False,3,427.0
+325,Combusken,Stage 1 Pokémon,{R},90.0,50.0,25.0,2,False,False,False,0,427.0
+371,Electabuzz,Basic Pokémon,{L},90.0,50.0,25.0,2,False,False,False,0,427.0
+427,Team Rocket's Flaaffy,Stage 1 Pokémon,{L},90.0,50.0,25.0,2,False,False,False,0,427.0
+622,Klang,Stage 1 Pokémon,{M},90.0,50.0,25.0,2,False,False,False,0,427.0
+910,Erika's Gloom,Stage 1 Pokémon,{G},90.0,50.0,25.0,2,False,False,False,0,427.0
+999,Vigoroth,Stage 1 Pokémon,{C},90.0,50.0,25.0,2,False,False,False,0,427.0
+432,Team Rocket's Wobbuffet,Basic Pokémon,{P},110.0,70.0,23.333333333333332,2,False,False,False,3,426.0
+724,Clauncher,Basic Pokémon,{W},80.0,50.0,25.0,2,False,False,False,0,425.0
+801,Piloswine,Stage 1 Pokémon,{W},100.0,70.0,23.333333333333332,2,False,False,False,3,424.0
+467,Zamazenta,Basic Pokémon,{M},130.0,70.0,23.333333333333332,3,False,False,False,0,422.0
+716,Pyroar,Stage 1 Pokémon,{R},130.0,70.0,23.333333333333332,3,False,False,False,3,422.0
+505,Alomomola,Basic Pokémon,{W},110.0,70.0,23.333333333333332,3,False,False,False,3,418.0
+931,Pignite,Stage 1 Pokémon,{R},110.0,70.0,23.333333333333332,3,False,False,False,0,418.0
+976,Carbink,Basic Pokémon,{F},90.0,70.0,23.333333333333332,3,False,False,False,3,414.0
+465,Forretress,Stage 1 Pokémon,{M},130.0,80.0,20.0,1,False,False,False,3,398.0
+750,Grumpig,Stage 1 Pokémon,{P},120.0,60.0,20.0,3,True,False,False,1,395.0
+86,Metang,Stage 1 Pokémon,{M},100.0,60.0,20.0,3,True,False,False,1,391.0
+962,Azumarill ex,Stage 1 Pokémon,{P},270.0,60.0,20.0,3,False,False,False,1,390.0
+423,Cetoddle,Basic Pokémon,{W},100.0,80.0,20.0,2,False,False,False,3,384.0
+845,Smeargle,Basic Pokémon,{C},80.0,40.0,20.0,1,True,False,False,3,383.0
+1071,Meowth ex,Basic Pokémon,{C},170.0,60.0,20.0,3,False,False,True,3,382.0
+211,Magneton,Stage 1 Pokémon,{L},100.0,40.0,20.0,2,True,False,False,3,379.0
+888,Carkol,Stage 1 Pokémon,{F},110.0,60.0,20.0,1,False,False,False,3,374.0
+228,Zweilous,Stage 1 Pokémon,{D},100.0,60.0,20.0,1,False,False,False,3,372.0
+480,Servine,Stage 1 Pokémon,{G},100.0,60.0,20.0,1,False,False,False,3,372.0
+863,N's Vanillish,Stage 1 Pokémon,{W},100.0,60.0,20.0,1,False,False,False,3,372.0
+981,Whirlipede,Stage 1 Pokémon,{D},100.0,60.0,20.0,1,False,False,False,3,372.0
+1048,Hippopotas,Basic Pokémon,{F},100.0,60.0,20.0,1,False,False,False,3,372.0
+946,Cramorant,Basic Pokémon,{W},110.0,20.0,20.0,1,True,False,False,3,369.0
+425,Team Rocket's Zapdos,Basic Pokémon,{L},120.0,60.0,20.0,2,False,False,False,3,368.0
+593,Cofagrigus,Stage 1 Pokémon,{P},120.0,60.0,20.0,2,False,False,False,3,368.0
+703,Miltank,Basic Pokémon,{C},120.0,60.0,20.0,2,False,False,False,3,368.0
+377,Zeraora,Basic Pokémon,{L},100.0,20.0,20.0,1,True,False,False,3,367.0
+1021,Dartrix,Stage 1 Pokémon,{G},100.0,20.0,20.0,1,True,False,False,3,367.0
+297,Magearna,Basic Pokémon,{M},90.0,20.0,20.0,1,True,False,False,4,365.0
+454,Team Rocket's Nidorino,Stage 1 Pokémon,{D},100.0,60.0,20.0,2,False,False,False,3,364.0
+212,Rotom,Basic Pokémon,{L},80.0,20.0,20.0,1,True,False,False,3,363.0
+263,Wailmer,Basic Pokémon,{W},130.0,60.0,20.0,3,False,False,False,0,362.0
+501,Palpitoad,Stage 1 Pokémon,{W},90.0,60.0,20.0,2,False,False,False,3,362.0
+114,Gurdurr,Stage 1 Pokémon,{F},100.0,50.0,20.0,1,False,False,False,2,362.0
+414,Team Rocket's Articuno,Basic Pokémon,{W},120.0,60.0,20.0,3,False,False,False,3,360.0
+859,Golduck,Stage 1 Pokémon,{W},120.0,60.0,20.0,3,False,False,False,3,360.0
+322,Lilligant,Stage 1 Pokémon,{G},110.0,60.0,20.0,3,False,False,False,2,358.0
+50,Wiglett,Basic Pokémon,{W},60.0,40.0,20.0,1,False,False,True,3,356.0
+157,Chewtle,Basic Pokémon,{W},80.0,60.0,20.0,3,False,False,False,0,352.0
+411,Combusken,Stage 1 Pokémon,{R},100.0,40.0,20.0,1,False,False,False,3,352.0
+295,N’s Klang,Stage 1 Pokémon,{M},90.0,40.0,20.0,1,False,False,False,3,350.0
+403,Dolliv,Stage 1 Pokémon,{G},90.0,40.0,20.0,1,False,False,False,3,350.0
+462,Team Rocket's Weezing,Stage 1 Pokémon,{D},130.0,40.0,20.0,2,False,False,False,0,350.0
+595,Gothorita,Stage 1 Pokémon,{P},90.0,40.0,20.0,1,False,False,False,3,350.0
+443,Nosepass,Basic Pokémon,{F},80.0,40.0,20.0,1,False,False,False,3,348.0
+752,Greavard,Basic Pokémon,{P},80.0,40.0,20.0,1,False,False,False,3,348.0
+119,Dreepy,Basic Pokémon,竜,70.0,40.0,20.0,1,False,False,False,3,346.0
+478,Squawkabilly,Basic Pokémon,{C},70.0,20.0,20.0,1,False,True,False,5,346.0
+539,Krokorok,Stage 1 Pokémon,{D},100.0,40.0,20.0,2,False,False,False,0,344.0
+382,Mudbray,Basic Pokémon,{F},90.0,40.0,20.0,2,False,False,False,0,342.0
+1036,Luxio,Stage 1 Pokémon,{L},90.0,40.0,20.0,2,False,False,False,3,342.0
+1046,Nosepass,Basic Pokémon,{F},90.0,40.0,20.0,2,False,False,False,0,342.0
+558,Swadloon,Stage 1 Pokémon,{G},80.0,40.0,20.0,2,False,False,False,3,340.0
+937,Totodile,Basic Pokémon,{W},80.0,40.0,20.0,2,False,False,False,0,340.0
+69,Nuzleaf,Stage 1 Pokémon,{G},90.0,30.0,20.0,1,False,False,False,3,340.0
+150,Hydrapple ex,Stage 2 Pokémon,{G},330.0,30.0,15.0,2,True,False,False,1,340.0
+898,Pecharunt,Basic Pokémon,{D},80.0,20.0,20.0,1,False,False,True,3,340.0
+118,Heatran,Basic Pokémon,{M},140.0,50.0,16.666666666666668,3,True,False,False,1,339.0
+420,Wash Rotom,Basic Pokémon,{W},80.0,30.0,20.0,1,False,False,False,3,338.0
+35,Walking Wake,Basic Pokémon,{W},130.0,20.0,20.0,1,False,False,False,3,338.0
+510,Emolga,Basic Pokémon,{L},70.0,20.0,20.0,1,False,False,True,3,338.0
+767,Mimikyu,Basic Pokémon,{P},70.0,20.0,20.0,1,False,False,True,3,338.0
+396,Mow Rotom,Basic Pokémon,{G},70.0,30.0,20.0,1,False,False,False,3,336.0
+635,Steven's Baltoy,Basic Pokémon,{P},60.0,20.0,20.0,1,False,False,True,3,336.0
+791,Moltres,Basic Pokémon,{R},120.0,20.0,20.0,1,False,False,False,0,336.0
+376,Rotom,Basic Pokémon,{L},60.0,30.0,20.0,1,False,False,False,3,334.0
+255,Maractus,Basic Pokémon,{G},110.0,20.0,20.0,1,False,False,False,3,334.0
+277,N’s Sigilyph,Basic Pokémon,{P},110.0,20.0,20.0,1,False,False,False,3,334.0
+378,Ethan's Sudowoodo,Basic Pokémon,{F},110.0,20.0,20.0,1,False,False,False,3,334.0
+556,Cinccino,Stage 1 Pokémon,{C},100.0,20.0,20.0,1,False,False,False,0,332.0
+805,Prinplup,Stage 1 Pokémon,{W},100.0,20.0,20.0,1,False,False,False,3,332.0
+964,Beheeyem,Stage 1 Pokémon,{P},100.0,20.0,20.0,1,False,False,False,0,332.0
+34,Frogadier,Stage 1 Pokémon,{W},90.0,20.0,20.0,1,False,False,False,0,330.0
+769,Alcremie,Stage 1 Pokémon,{P},90.0,20.0,20.0,1,False,False,False,0,330.0
+921,Dipplin,Stage 1 Pokémon,{G},90.0,20.0,20.0,1,False,False,False,0,330.0
+512,Eelektrik,Stage 1 Pokémon,{L},90.0,50.0,16.666666666666668,3,True,False,False,1,329.0
+93,Dipplin,Stage 1 Pokémon,{G},80.0,20.0,20.0,1,False,False,False,3,328.0
+355,Ethan's Slugma,Basic Pokémon,{R},80.0,20.0,20.0,1,False,False,False,0,328.0
+464,Team Rocket's Sneasel,Basic Pokémon,{D},80.0,20.0,20.0,1,False,False,False,3,328.0
+597,Frillish,Basic Pokémon,{P},80.0,20.0,20.0,1,False,False,False,0,328.0
+775,Sableye,Basic Pokémon,{D},80.0,20.0,20.0,1,False,False,False,0,328.0
+788,Charmander,Basic Pokémon,{R},80.0,20.0,20.0,1,False,False,False,3,328.0
+887,Rolycoly,Basic Pokémon,{F},80.0,20.0,20.0,1,False,False,False,0,328.0
+930,Tepig,Basic Pokémon,{R},80.0,20.0,20.0,1,False,False,False,0,328.0
+164,Comfey,Basic Pokémon,{P},70.0,20.0,20.0,1,False,False,False,3,326.0
+292,N’s Zorua,Basic Pokémon,{D},70.0,20.0,20.0,1,False,False,False,0,326.0
+319,Charcadet,Basic Pokémon,{R},70.0,20.0,20.0,1,False,False,False,0,326.0
+341,Cynthia's Roselia,Basic Pokémon,{G},70.0,20.0,20.0,1,False,False,False,0,326.0
+360,Misty's Staryu,Basic Pokémon,{W},70.0,20.0,20.0,1,False,False,False,0,326.0
+379,Cynthia's Gible,Basic Pokémon,{F},70.0,20.0,20.0,1,False,False,False,0,326.0
+408,Team Rocket's Houndour,Basic Pokémon,{R},70.0,20.0,20.0,1,False,False,False,0,326.0
+594,Gothita,Basic Pokémon,{P},70.0,20.0,20.0,1,False,False,False,0,326.0
+679,Croagunk,Basic Pokémon,{F},70.0,20.0,20.0,1,False,False,False,0,326.0
+690,Nickit,Basic Pokémon,{D},70.0,20.0,20.0,1,False,False,False,0,326.0
+697,Tinkatink,Basic Pokémon,{M},70.0,20.0,20.0,1,False,False,False,0,326.0
+708,Chikorita,Basic Pokémon,{G},70.0,20.0,20.0,1,False,False,False,0,326.0
+779,Gloom,Stage 1 Pokémon,{G},70.0,20.0,20.0,1,False,False,False,0,326.0
+812,Misdreavus,Basic Pokémon,{P},70.0,20.0,20.0,1,False,False,False,0,326.0
+841,Jigglypuff,Basic Pokémon,{C},70.0,20.0,20.0,1,False,False,False,0,326.0
+885,Pancham,Basic Pokémon,{F},70.0,20.0,20.0,1,False,False,False,0,326.0
+1025,Salandit,Basic Pokémon,{R},70.0,20.0,20.0,1,False,False,False,0,326.0
+1030,Staryu,Basic Pokémon,{W},70.0,20.0,20.0,1,False,False,False,0,326.0
+644,Marnie's Scraggy,Basic Pokémon,{D},70.0,50.0,16.666666666666668,3,True,False,False,0,325.0
+260,Lotad,Basic Pokémon,{W},60.0,20.0,20.0,1,False,False,False,0,324.0
+334,Sneasel,Basic Pokémon,{D},60.0,20.0,20.0,1,False,False,False,0,324.0
+397,Fomantis,Basic Pokémon,{G},60.0,20.0,20.0,1,False,False,False,0,324.0
+476,Taillow,Basic Pokémon,{C},60.0,20.0,20.0,1,False,False,False,0,324.0
+555,Minccino,Basic Pokémon,{C},60.0,20.0,20.0,1,False,False,False,0,324.0
+605,Mienfoo,Basic Pokémon,{F},60.0,20.0,20.0,1,False,False,False,0,324.0
+642,Marnie's Purrloin,Basic Pokémon,{D},60.0,20.0,20.0,1,False,False,False,0,324.0
+748,Shedinja,Stage 1 Pokémon,{P},60.0,20.0,20.0,1,False,False,False,3,324.0
+850,Wurmple,Basic Pokémon,{G},60.0,20.0,20.0,1,False,False,False,0,324.0
+912,Erika's Bellsprout,Basic Pokémon,{G},60.0,20.0,20.0,1,False,False,False,0,324.0
+950,Magnemite,Basic Pokémon,{L},60.0,20.0,20.0,1,False,False,False,0,324.0
+963,Shuppet,Basic Pokémon,{P},60.0,20.0,20.0,1,False,False,False,0,324.0
+965,Swirlix,Basic Pokémon,{P},60.0,20.0,20.0,1,False,False,False,0,324.0
+1000,Skitty,Basic Pokémon,{C},60.0,20.0,20.0,1,False,False,False,0,324.0
+252,Caterpie,Basic Pokémon,{G},50.0,20.0,20.0,1,False,False,False,0,322.0
+323,Nymble,Basic Pokémon,{G},50.0,20.0,20.0,1,False,False,False,0,322.0
+557,Sewaddle,Basic Pokémon,{G},50.0,20.0,20.0,1,False,False,False,0,322.0
+712,Nincada,Basic Pokémon,{G},50.0,20.0,20.0,1,False,False,False,0,322.0
+778,Oddish,Basic Pokémon,{G},50.0,20.0,20.0,1,False,False,False,0,322.0
+865,Snom,Basic Pokémon,{W},50.0,20.0,20.0,1,False,False,False,0,322.0
+149,Applin,Basic Pokémon,{G},40.0,20.0,20.0,1,False,False,False,0,320.0
+1017,Scatterbug,Basic Pokémon,{G},40.0,20.0,20.0,1,False,False,False,0,320.0
+186,Gimmighoul,Basic Pokémon,{P},70.0,50.0,16.666666666666668,1,False,False,True,3,318.0
+986,Brute Bonnet,Basic Pokémon,{D},120.0,50.0,16.666666666666668,1,False,False,False,3,316.0
+717,Sizzlipede,Basic Pokémon,{R},80.0,50.0,16.666666666666668,1,False,False,False,3,308.0
+85,Beldum,Basic Pokémon,{M},70.0,50.0,16.666666666666668,1,False,False,False,3,306.0
+388,Arven's Maschiff,Basic Pokémon,{D},70.0,50.0,16.666666666666668,1,False,False,False,3,306.0
+528,Timburr,Basic Pokémon,{F},70.0,50.0,16.666666666666668,1,False,False,False,3,306.0
+418,Snover,Basic Pokémon,{W},90.0,50.0,16.666666666666668,2,False,False,False,3,302.0
+581,Vanillish,Stage 1 Pokémon,{W},90.0,50.0,16.666666666666668,2,False,False,False,3,302.0
+977,Crabrawler,Basic Pokémon,{F},90.0,50.0,16.666666666666668,2,False,False,False,3,302.0
+257,N’s Darumaka,Basic Pokémon,{R},80.0,50.0,16.666666666666668,2,False,False,False,3,300.0
+616,Deino,Basic Pokémon,{D},80.0,50.0,16.666666666666668,2,False,False,False,3,300.0
+401,Team Rocket's Spidops,Stage 1 Pokémon,{G},130.0,30.0,15.0,2,True,False,False,3,300.0
+1038,Dedenne,Basic Pokémon,{L},70.0,30.0,15.0,1,True,False,False,3,296.0
+59,Gastly,Basic Pokémon,{D},60.0,30.0,15.0,1,True,False,False,3,294.0
+67,Pineco,Basic Pokémon,{G},70.0,50.0,16.666666666666668,3,False,False,False,0,290.0
+309,Hop’s Wooloo,Basic Pokémon,{C},70.0,50.0,16.666666666666668,3,False,False,False,0,290.0
+71,Deerling,Basic Pokémon,{G},70.0,40.0,13.333333333333334,1,True,False,False,3,281.0
+339,Yanma,Basic Pokémon,{G},70.0,30.0,15.0,1,False,True,False,5,281.0
+1039,Clefairy,Basic Pokémon,{P},70.0,30.0,15.0,1,False,True,False,5,281.0
+757,Delibird,Basic Pokémon,{C},90.0,30.0,15.0,1,False,False,True,3,277.0
+287,Lycanroc,Stage 1 Pokémon,{F},120.0,40.0,13.333333333333334,3,True,False,False,1,275.0
+162,Slowpoke,Basic Pokémon,{P},80.0,30.0,15.0,1,False,False,True,3,275.0
+463,Team Rocket's Murkrow,Basic Pokémon,{D},80.0,30.0,15.0,1,False,False,True,3,275.0
+168,Meltan,Basic Pokémon,{M},70.0,30.0,15.0,1,False,False,True,3,273.0
+907,Noibat,Basic Pokémon,竜,70.0,30.0,15.0,1,False,False,True,3,273.0
+106,Palafin,Stage 1 Pokémon,{W},100.0,30.0,15.0,2,False,False,True,3,271.0
+877,Rotom,Basic Pokémon,{P},60.0,30.0,15.0,1,False,False,True,3,271.0
+42,Applin,Basic Pokémon,竜,40.0,30.0,15.0,1,False,False,True,3,267.0
+855,Entei,Basic Pokémon,{R},140.0,30.0,15.0,2,False,False,False,0,267.0
+461,Team Rocket's Koffing,Basic Pokémon,{D},70.0,30.0,15.0,2,False,False,True,3,265.0
+722,Snover,Basic Pokémon,{W},90.0,30.0,15.0,1,False,False,False,3,265.0
+803,Suicune,Basic Pokémon,{W},130.0,30.0,15.0,2,False,False,False,0,265.0
+413,Heat Rotom,Basic Pokémon,{R},80.0,30.0,15.0,1,False,False,False,3,263.0
+435,Team Rocket's Dottler,Stage 1 Pokémon,{P},80.0,30.0,15.0,1,False,False,False,3,263.0
+599,Roggenrola,Basic Pokémon,{F},80.0,30.0,15.0,1,False,False,False,3,263.0
+638,Steven's Skarmory,Basic Pokémon,{M},120.0,30.0,15.0,2,False,False,False,3,263.0
+667,Corphish,Basic Pokémon,{W},80.0,30.0,15.0,1,False,False,False,3,263.0
+673,Makuhita,Basic Pokémon,{F},80.0,30.0,15.0,1,False,False,False,3,263.0
+714,Dhelmise,Basic Pokémon,{G},120.0,30.0,15.0,2,False,False,False,0,263.0
+735,Raikou,Basic Pokémon,{L},120.0,30.0,15.0,2,False,False,False,0,263.0
+1028,Seel,Basic Pokémon,{W},80.0,30.0,15.0,1,False,False,False,3,263.0
+1051,Binacle,Basic Pokémon,{F},80.0,30.0,15.0,1,False,False,False,4,263.0
+89,Grookey,Basic Pokémon,{G},70.0,30.0,15.0,1,False,False,False,3,261.0
+327,Slowpoke,Basic Pokémon,{W},70.0,30.0,15.0,1,False,False,False,3,261.0
+453,Team Rocket's Nidoran♂,Basic Pokémon,{D},70.0,30.0,15.0,1,False,False,False,3,261.0
+479,Snivy,Basic Pokémon,{G},70.0,30.0,15.0,1,False,False,False,3,261.0
+482,Pansage,Basic Pokémon,{G},70.0,30.0,15.0,1,False,False,False,4,261.0
+498,Panpour,Basic Pokémon,{W},70.0,30.0,15.0,1,False,False,False,4,261.0
+526,Drilbur,Basic Pokémon,{F},70.0,30.0,15.0,1,False,False,False,3,261.0
+567,Tepig,Basic Pokémon,{R},70.0,30.0,15.0,1,False,False,False,3,261.0
+570,Pansear,Basic Pokémon,{R},70.0,30.0,15.0,1,False,False,False,4,261.0
+574,Oshawott,Basic Pokémon,{W},70.0,30.0,15.0,1,False,False,False,3,261.0
+610,Scraggy,Basic Pokémon,{D},70.0,30.0,15.0,1,False,False,False,3,261.0
+744,Jynx,Basic Pokémon,{P},110.0,30.0,15.0,2,False,False,False,0,261.0
+825,Sneasel,Basic Pokémon,{D},70.0,30.0,15.0,1,False,False,False,3,261.0
+917,Chikorita,Basic Pokémon,{G},70.0,30.0,15.0,1,False,False,False,3,261.0
+936,Crocalor,Stage 1 Pokémon,{R},110.0,30.0,15.0,2,False,False,False,0,261.0
+948,Pikachu,Basic Pokémon,{L},70.0,30.0,15.0,1,False,False,False,3,261.0
+837,Bronzong,Stage 1 Pokémon,{M},140.0,40.0,13.333333333333334,1,False,False,False,4,260.0
+57,Relicanth,Basic Pokémon,{F},100.0,30.0,15.0,2,False,False,False,3,259.0
+65,Dunsparce,Basic Pokémon,{C},60.0,30.0,15.0,1,False,False,False,3,259.0
+131,Duskull,Basic Pokémon,{P},60.0,30.0,15.0,1,False,False,False,3,259.0
+274,Beldum,Basic Pokémon,{P},60.0,30.0,15.0,1,False,False,False,3,259.0
+374,Electrike,Basic Pokémon,{L},60.0,30.0,15.0,1,False,False,False,3,259.0
+584,Blitzle,Basic Pokémon,{L},60.0,30.0,15.0,1,False,False,False,3,259.0
+60,Haunter,Stage 1 Pokémon,{D},90.0,30.0,15.0,2,False,False,False,0,257.0
+783,Lombre,Stage 1 Pokémon,{G},90.0,30.0,15.0,2,False,False,False,0,257.0
+923,Floragato,Stage 1 Pokémon,{G},90.0,30.0,15.0,2,False,False,False,0,257.0
+960,Togetic,Stage 1 Pokémon,{P},90.0,30.0,15.0,2,False,False,False,0,257.0
+343,Shaymin,Basic Pokémon,{G},80.0,30.0,15.0,2,False,False,False,3,255.0
+491,Darumaka,Basic Pokémon,{R},80.0,30.0,15.0,2,False,False,False,0,255.0
+603,Archen,Stage 1 Pokémon,{F},80.0,30.0,15.0,2,False,False,False,0,255.0
+711,Shuckle,Basic Pokémon,{G},80.0,30.0,15.0,2,False,False,False,3,255.0
+902,Dratini,Basic Pokémon,竜,80.0,30.0,15.0,2,False,False,False,0,255.0
+926,Charmander,Basic Pokémon,{R},80.0,30.0,15.0,2,False,False,False,0,255.0
+929,Magmar,Basic Pokémon,{R},80.0,30.0,15.0,2,False,False,False,0,255.0
+202,Victini,Basic Pokémon,{R},70.0,30.0,15.0,2,False,False,False,2,253.0
+208,Shellos,Basic Pokémon,{W},70.0,30.0,15.0,2,False,False,False,0,253.0
+291,N’s Purrloin,Basic Pokémon,{D},70.0,30.0,15.0,2,False,False,False,0,253.0
+562,Deerling,Basic Pokémon,{G},70.0,30.0,15.0,2,False,False,False,0,253.0
+639,Steven's Beldum,Basic Pokémon,{M},70.0,30.0,15.0,2,False,False,False,0,253.0
+715,Litleo,Basic Pokémon,{R},70.0,30.0,15.0,2,False,False,False,0,253.0
+782,Lotad,Basic Pokémon,{G},70.0,30.0,15.0,2,False,False,False,0,253.0
+870,Helioptile,Basic Pokémon,{L},70.0,30.0,15.0,2,False,False,False,0,253.0
+974,Riolu,Basic Pokémon,{F},70.0,30.0,15.0,2,False,False,False,0,253.0
+268,Iono’s Tadbulb,Basic Pokémon,{L},60.0,30.0,15.0,2,False,False,False,0,251.0
+324,Torchic,Basic Pokémon,{R},60.0,30.0,15.0,2,False,False,False,0,251.0
+394,Shroomish,Basic Pokémon,{G},60.0,30.0,15.0,2,False,False,False,0,251.0
+317,Eevee,Basic Pokémon,{C},50.0,30.0,15.0,2,False,False,False,3,249.0
+321,Petilil,Basic Pokémon,{G},50.0,30.0,15.0,2,False,False,False,0,249.0
+959,Togepi,Basic Pokémon,{P},50.0,30.0,15.0,2,False,False,False,0,249.0
+980,Venipede,Basic Pokémon,{D},80.0,40.0,13.333333333333334,1,False,False,False,3,248.0
+267,N’s Joltik,Basic Pokémon,{L},40.0,30.0,15.0,2,False,False,False,0,247.0
+53,Marill,Basic Pokémon,{P},70.0,40.0,13.333333333333334,1,False,False,False,3,246.0
+619,Ferroseed,Basic Pokémon,{M},70.0,40.0,13.333333333333334,1,False,False,False,3,246.0
+521,Elgyem,Basic Pokémon,{P},60.0,40.0,13.333333333333334,1,False,False,False,3,244.0
+436,Team Rocket's Orbeetle,Stage 2 Pokémon,{P},130.0,40.0,13.333333333333334,3,False,False,False,3,242.0
+96,Teal Mask Ogerpon ex,Basic Pokémon,{G},210.0,30.0,10.0,3,True,False,False,4,233.0
+81,Drilbur,Basic Pokémon,{F},70.0,20.0,10.0,2,True,False,True,3,215.0
+1006,Mega Audino ex,Basic Pokémon,{C},270.0,20.0,6.666666666666667,1,True,False,True,3,213.0
+578,Ducklett,Basic Pokémon,{W},70.0,20.0,10.0,1,True,False,False,3,211.0
+284,Larvitar,Basic Pokémon,{F},70.0,20.0,10.0,2,True,False,False,0,203.0
+738,Pachirisu,Basic Pokémon,{L},70.0,10.0,10.0,1,True,False,False,0,201.0
+661,Numel,Basic Pokémon,{R},80.0,30.0,10.0,1,False,False,True,3,200.0
+1020,Rowlet,Basic Pokémon,{G},80.0,30.0,10.0,1,False,False,True,3,200.0
+95,Teal Mask Ogerpon,Basic Pokémon,{G},110.0,20.0,10.0,1,False,False,True,3,196.0
+272,Lillie’s Clefairy ex,Basic Pokémon,{P},190.0,20.0,10.0,2,False,False,False,3,192.0
+111,Sandygast,Basic Pokémon,{P},90.0,30.0,10.0,1,False,False,False,3,190.0
+288,Hop’s Silicobra,Basic Pokémon,{F},80.0,20.0,10.0,1,False,False,True,3,190.0
+22,Hippopotas,Basic Pokémon,{F},90.0,10.0,10.0,1,False,True,False,5,190.0
+1059,Gengar,Stage 2 Pokémon,{D},130.0,10.0,10.0,1,False,False,True,3,190.0
+793,Darmanitan,Stage 1 Pokémon,{R},150.0,40.0,10.0,4,False,False,False,0,188.0
+706,Tangela,Basic Pokémon,{G},80.0,30.0,10.0,1,False,False,False,3,188.0
+836,Bronzor,Basic Pokémon,{M},80.0,30.0,10.0,1,False,False,False,3,188.0
+88,Volbeat,Basic Pokémon,{G},70.0,20.0,10.0,1,False,False,True,3,188.0
+145,Eevee,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,True,3,188.0
+804,Piplup,Basic Pokémon,{W},70.0,20.0,10.0,1,False,False,True,3,188.0
+833,Toxel,Basic Pokémon,{D},70.0,20.0,10.0,1,False,False,True,3,188.0
+367,Buizel,Basic Pokémon,{W},70.0,30.0,10.0,1,False,False,False,3,186.0
+97,Litwick,Basic Pokémon,{R},60.0,20.0,10.0,1,False,False,True,3,186.0
+187,Trapinch,Basic Pokémon,{F},60.0,20.0,10.0,1,False,False,True,3,186.0
+862,N's Vanillite,Basic Pokémon,{W},60.0,20.0,10.0,1,False,False,True,3,186.0
+1075,Fletchling,Basic Pokémon,{C},60.0,20.0,10.0,1,False,False,True,3,186.0
+74,Rabsca,Stage 1 Pokémon,{G},70.0,10.0,10.0,1,False,True,False,5,186.0
+899,Pawniard,Basic Pokémon,{M},70.0,10.0,10.0,1,False,True,False,5,186.0
+475,Team Rocket's Porygon-Z,Stage 2 Pokémon,{C},140.0,20.0,10.0,2,False,False,False,4,182.0
+245,Alakazam,Stage 2 Pokémon,{P},140.0,10.0,10.0,1,False,False,False,3,180.0
+405,Growlithe,Basic Pokémon,{R},80.0,20.0,10.0,1,False,False,False,3,178.0
+956,Zeraora,Basic Pokémon,{L},120.0,20.0,10.0,2,False,False,False,0,178.0
+281,Swinub,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,True,3,178.0
+796,Charcadet,Basic Pokémon,{R},70.0,10.0,10.0,1,False,False,True,3,178.0
+136,Zorua,Basic Pokémon,{D},70.0,20.0,10.0,1,False,False,False,3,176.0
+143,Varoom,Basic Pokémon,{M},70.0,20.0,10.0,1,False,False,False,3,176.0
+218,Yamask,Basic Pokémon,{P},70.0,20.0,10.0,1,False,False,False,3,176.0
+227,Deino,Basic Pokémon,{D},70.0,20.0,10.0,1,False,False,False,3,176.0
+286,Rockruff,Basic Pokémon,{F},70.0,20.0,10.0,1,False,False,False,3,176.0
+305,Dunsparce,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,3,176.0
+470,Team Rocket's Meowth,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,3,176.0
+532,Dwebble,Basic Pokémon,{F},70.0,20.0,10.0,1,False,False,False,3,176.0
+612,Trubbish,Basic Pokémon,{D},70.0,20.0,10.0,1,False,False,False,3,176.0
+632,Rufflet,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,3,176.0
+659,Vulpix,Basic Pokémon,{R},70.0,20.0,10.0,1,False,False,False,3,176.0
+669,Sandshrew,Basic Pokémon,{F},70.0,20.0,10.0,1,False,False,False,3,176.0
+704,Yungoos,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,4,176.0
+760,Stufful,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,3,176.0
+800,Swinub,Basic Pokémon,{W},70.0,20.0,10.0,1,False,False,False,3,176.0
+830,Sandile,Basic Pokémon,{D},70.0,20.0,10.0,1,False,False,False,3,176.0
+848,Buneary,Basic Pokémon,{C},70.0,20.0,10.0,1,False,False,False,3,176.0
+933,Larvesta,Basic Pokémon,{R},70.0,20.0,10.0,1,False,False,False,3,176.0
+961,Marill,Basic Pokémon,{P},70.0,20.0,10.0,1,False,False,False,3,176.0
+978,Passimian,Basic Pokémon,{F},110.0,20.0,10.0,2,False,False,False,0,176.0
+33,Froakie,Basic Pokémon,{W},60.0,10.0,10.0,1,False,False,True,3,176.0
+426,Team Rocket's Mareep,Basic Pokémon,{L},60.0,10.0,10.0,1,False,False,True,3,176.0
+626,Patrat,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,True,3,176.0
+967,Fidough,Basic Pokémon,{P},60.0,10.0,10.0,1,False,False,True,3,176.0
+1003,Larry's Starly,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,True,3,176.0
+68,Seedot,Basic Pokémon,{G},60.0,20.0,10.0,1,False,False,False,3,174.0
+165,Klink,Basic Pokémon,{M},60.0,20.0,10.0,1,False,False,False,4,174.0
+220,Espurr,Basic Pokémon,{P},60.0,20.0,10.0,1,False,False,False,3,174.0
+307,Hop’s Rookidee,Basic Pokémon,{C},60.0,20.0,10.0,1,False,False,False,3,174.0
+580,Vanillite,Basic Pokémon,{W},60.0,20.0,10.0,1,False,False,False,3,174.0
+656,Seedot,Basic Pokémon,{G},60.0,20.0,10.0,1,False,False,False,3,174.0
+1053,Tyrunt,Stage 1 Pokémon,{F},100.0,20.0,10.0,2,False,False,False,0,174.0
+250,Hoothoot,Basic Pokémon,{C},80.0,20.0,10.0,2,False,False,False,3,170.0
+798,Seel,Basic Pokémon,{W},80.0,20.0,10.0,2,False,False,False,0,170.0
+856,Numel,Basic Pokémon,{R},80.0,20.0,10.0,2,False,False,False,3,170.0
+895,Scraggy,Basic Pokémon,{D},80.0,20.0,10.0,2,False,False,False,0,170.0
+935,Fuecoco,Basic Pokémon,{R},80.0,20.0,10.0,2,False,False,False,0,170.0
+1060,Skorupi,Basic Pokémon,{D},80.0,20.0,10.0,2,False,False,False,0,170.0
+64,Hoothoot,Basic Pokémon,{C},70.0,20.0,10.0,2,False,False,False,0,168.0
+265,Iono’s Voltorb,Basic Pokémon,{L},70.0,20.0,10.0,2,False,False,False,0,168.0
+335,Bronzor,Basic Pokémon,{M},70.0,20.0,10.0,2,False,False,False,0,168.0
+592,Yamask,Basic Pokémon,{P},70.0,20.0,10.0,2,False,False,False,0,168.0
+762,Snubbull,Basic Pokémon,{P},70.0,20.0,10.0,2,False,False,False,0,168.0
+807,Yamper,Basic Pokémon,{L},70.0,20.0,10.0,2,False,False,False,0,168.0
+843,Aipom,Basic Pokémon,{C},70.0,20.0,10.0,2,False,False,False,0,168.0
+858,Psyduck,Basic Pokémon,{W},70.0,20.0,10.0,2,False,False,False,3,168.0
+925,Capsakid,Basic Pokémon,{G},70.0,20.0,10.0,2,False,False,False,0,168.0
+983,Vullaby,Basic Pokémon,{D},70.0,20.0,10.0,2,False,False,False,0,168.0
+1007,Larry's Rufflet,Basic Pokémon,{C},70.0,20.0,10.0,2,False,False,False,0,168.0
+54,Bronzor,Basic Pokémon,{P},80.0,10.0,10.0,1,False,False,False,0,168.0
+76,Slugma,Basic Pokémon,{R},80.0,10.0,10.0,1,False,False,False,0,168.0
+429,Team Rocket's Drowzee,Basic Pokémon,{P},80.0,10.0,10.0,1,False,False,False,0,168.0
+650,Bulbasaur,Basic Pokémon,{G},80.0,10.0,10.0,1,False,False,False,0,168.0
+688,Spiritomb,Basic Pokémon,{D},80.0,10.0,10.0,1,False,False,False,3,168.0
+103,Snorunt,Basic Pokémon,{W},60.0,20.0,10.0,2,False,False,False,0,166.0
+500,Tympole,Basic Pokémon,{W},60.0,20.0,10.0,2,False,False,False,0,166.0
+692,Shroodle,Basic Pokémon,{D},60.0,20.0,10.0,2,False,False,False,0,166.0
+945,Froakie,Basic Pokémon,{W},60.0,20.0,10.0,2,False,False,False,0,166.0
+989,Bronzor,Basic Pokémon,{M},60.0,20.0,10.0,2,False,False,False,0,166.0
+47,Totodile,Basic Pokémon,{W},70.0,10.0,10.0,1,False,False,False,0,166.0
+77,Litten,Basic Pokémon,{R},70.0,10.0,10.0,1,False,False,False,0,166.0
+127,Rowlet,Basic Pokémon,{G},70.0,10.0,10.0,1,False,False,False,4,166.0
+151,Scorbunny,Basic Pokémon,{R},70.0,10.0,10.0,1,False,False,False,0,166.0
+172,Hoothoot,Basic Pokémon,{C},70.0,10.0,10.0,1,False,False,False,0,166.0
+314,Marill,Basic Pokémon,{W},70.0,10.0,10.0,1,False,False,False,0,166.0
+333,Riolu,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+350,Ponyta,Basic Pokémon,{R},70.0,10.0,10.0,1,False,False,False,0,166.0
+387,Cynthia's Spiritomb,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,0,166.0
+393,Pineco,Basic Pokémon,{G},70.0,10.0,10.0,1,False,False,False,0,166.0
+410,Torchic,Basic Pokémon,{R},70.0,10.0,10.0,1,False,False,False,4,166.0
+440,Team Rocket's Larvitar,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+445,Meditite,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+448,Team Rocket's Ekans,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,3,166.0
+506,Cubchoo,Basic Pokémon,{W},70.0,10.0,10.0,1,False,False,False,0,166.0
+516,Munna,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,3,166.0
+538,Sandile,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,0,166.0
+541,Vullaby,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,0,166.0
+646,Marnie's Impidimp,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,4,166.0
+668,Gimmighoul,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,0,166.0
+683,Nacli,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+732,Magnemite,Basic Pokémon,{L},70.0,10.0,10.0,1,False,False,False,0,166.0
+739,Helioptile,Basic Pokémon,{L},70.0,10.0,10.0,1,False,False,False,0,166.0
+745,Ralts,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,4,166.0
+749,Spoink,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,0,166.0
+758,Buneary,Basic Pokémon,{C},70.0,10.0,10.0,1,False,False,False,3,166.0
+770,Gastly,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,0,166.0
+820,Gligar,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+822,Trapinch,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,0,166.0
+860,Snorunt,Basic Pokémon,{W},70.0,10.0,10.0,1,False,False,False,0,166.0
+878,Hop's Phantump,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,0,166.0
+883,Meditite,Basic Pokémon,{F},70.0,10.0,10.0,1,False,False,False,4,166.0
+892,Galarian Zigzagoon,Basic Pokémon,{D},70.0,10.0,10.0,1,False,False,False,0,166.0
+941,Spheal,Basic Pokémon,{W},70.0,10.0,10.0,1,False,False,False,0,166.0
+996,Larry's Dunsparce,Basic Pokémon,{C},70.0,10.0,10.0,1,False,False,False,0,166.0
+1035,Shinx,Basic Pokémon,{L},70.0,10.0,10.0,1,False,False,False,0,166.0
+1044,Spritzee,Basic Pokémon,{P},70.0,10.0,10.0,1,False,False,False,3,166.0
+1065,Honedge,Basic Pokémon,{M},70.0,10.0,10.0,1,False,False,False,0,166.0
+1073,Bunnelby,Basic Pokémon,{C},70.0,10.0,10.0,1,False,False,False,0,166.0
+237,Cottonee,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,0,164.0
+270,Iono’s Wattrel,Basic Pokémon,{L},60.0,10.0,10.0,1,False,False,False,0,164.0
+294,N’s Klink,Basic Pokémon,{M},60.0,10.0,10.0,1,False,False,False,0,164.0
+391,Arven's Skwovet,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,False,0,164.0
+402,Smoliv,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,0,164.0
+415,Clamperl,Basic Pokémon,{W},60.0,10.0,10.0,1,False,False,False,0,164.0
+484,Petilil,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,3,164.0
+487,Karrablast,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,3,164.0
+496,Larvesta,Basic Pokémon,{R},60.0,10.0,10.0,1,False,False,False,0,164.0
+544,Pawniard,Basic Pokémon,{M},60.0,10.0,10.0,1,False,False,False,0,164.0
+551,Pidove,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,False,3,164.0
+560,Cottonee,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,0,164.0
+564,Shelmet,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,3,164.0
+589,Woobat,Basic Pokémon,{P},60.0,10.0,10.0,1,False,False,False,0,164.0
+621,Klink,Basic Pokémon,{M},60.0,10.0,10.0,1,False,False,False,0,164.0
+628,Lillipup,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,False,0,164.0
+701,Spearow,Basic Pokémon,{C},60.0,10.0,10.0,1,False,False,False,0,164.0
+773,Murkrow,Basic Pokémon,{D},60.0,10.0,10.0,1,False,False,False,0,164.0
+809,Pawmi,Basic Pokémon,{L},60.0,10.0,10.0,1,False,False,False,3,164.0
+873,Team Rocket's Exeggcute,Basic Pokémon,{P},60.0,10.0,10.0,1,False,False,False,0,164.0
+922,Sprigatito,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,0,164.0
+947,Quaxly,Basic Pokémon,{W},60.0,10.0,10.0,1,False,False,False,0,164.0
+955,Helioptile,Basic Pokémon,{L},60.0,10.0,10.0,1,False,False,False,4,164.0
+1011,Spinarak,Basic Pokémon,{G},60.0,10.0,10.0,1,False,False,False,0,164.0
+1042,Espurr,Basic Pokémon,{P},60.0,10.0,10.0,1,False,False,False,3,164.0
+197,Swablu,Basic Pokémon,{C},50.0,10.0,10.0,1,False,False,False,0,162.0
+468,Team Rocket's Rattata,Basic Pokémon,{C},50.0,10.0,10.0,1,False,False,False,0,162.0
+741,Abra,Basic Pokémon,{P},50.0,10.0,10.0,1,False,False,False,0,162.0
+768,Milcery,Basic Pokémon,{P},50.0,10.0,10.0,1,False,False,False,0,162.0
+786,Nymble,Basic Pokémon,{G},50.0,10.0,10.0,1,False,False,False,0,162.0
+92,Applin,Basic Pokémon,{G},40.0,10.0,10.0,1,False,False,False,0,160.0
+109,Abra,Basic Pokémon,{P},40.0,10.0,10.0,1,False,False,False,3,160.0
+185,Flittle,Basic Pokémon,{P},40.0,10.0,10.0,1,False,False,False,0,160.0
+346,Applin,Basic Pokémon,{G},40.0,10.0,10.0,1,False,False,False,0,160.0
+518,Solosis,Basic Pokémon,{P},40.0,10.0,10.0,1,False,False,False,0,160.0
+28,Poltchageist,Basic Pokémon,{G},30.0,10.0,10.0,1,False,False,False,3,158.0
+242,Feebas,Basic Pokémon,{W},30.0,10.0,10.0,1,False,False,False,0,158.0
+362,Misty's Magikarp,Basic Pokémon,{W},30.0,10.0,10.0,1,False,False,False,3,158.0
+365,Cynthia's Feebas,Basic Pokémon,{W},30.0,10.0,10.0,1,False,False,False,0,158.0
+43,Eevee,Basic Pokémon,{C},50.0,20.0,6.666666666666667,1,False,False,True,3,134.0
+205,Scovillain ex,Stage 1 Pokémon,{R},260.0,10.0,5.0,2,False,False,False,3,121.0
+474,Team Rocket's Porygon2,Stage 1 Pokémon,{C},90.0,20.0,6.666666666666667,3,False,False,False,0,114.0
+100,Goldeen,Basic Pokémon,{W},50.0,10.0,5.0,2,True,False,False,3,114.0
+649,Marnie's Morpeko,Basic Pokémon,{D},70.0,20.0,6.666666666666667,3,False,False,False,0,110.0
+230,Pecharunt,Basic Pokémon,{D},80.0,10.0,5.0,2,False,False,False,3,85.0
+217,Azelf,Basic Pokémon,{P},70.0,10.0,5.0,2,False,False,False,0,83.0
+928,Mega Charizard Y ex,Stage 2 Pokémon,{R},360.0,0.0,0.0,3,True,False,False,1,83.0
+264,Wailord,Stage 1 Pokémon,{W},240.0,10.0,2.5,4,False,False,False,1,63.5
+792,Darumaka,Basic Pokémon,{R},80.0,10.0,3.3333333333333335,3,False,False,False,0,52.0
+1009,Larry's Komala,Basic Pokémon,{C},90.0,0.0,0.0,1,True,False,False,4,45.0
+36,Morpeko,Basic Pokémon,{L},70.0,0.0,0.0,1,True,False,False,3,41.0
+293,N’s Zoroark ex,Stage 1 Pokémon,{D},280.0,0.0,0.0,2,False,False,False,4,40.0
+373,Ethan's Pichu,Basic Pokémon,{L},30.0,30.0,0.0,0,False,False,False,4,36.0
+438,Primeape,Stage 1 Pokémon,{F},110.0,0.0,0.0,1,False,True,False,5,34.0
+730,Frosmoth,Stage 1 Pokémon,{W},110.0,0.0,0.0,1,False,True,False,5,34.0
+1064,Mega Skarmory ex,Basic Pokémon,{M},260.0,0.0,0.0,3,False,False,False,0,28.0
+144,Kyurem,Basic Pokémon,竜,130.0,0.0,0.0,5,True,False,False,1,21.0
+80,Iron Crown ex,Basic Pokémon,{P},220.0,0.0,0.0,3,False,False,False,2,20.0
+743,Alakazam,Stage 2 Pokémon,{P},140.0,0.0,0.0,1,False,False,False,4,20.0
+140,Fezandipiti ex,Basic Pokémon,{D},210.0,0.0,0.0,3,False,False,False,4,18.0
+183,Smoochum,Basic Pokémon,{P},30.0,0.0,0.0,0,False,False,True,0,18.0
+344,Dwebble,Basic Pokémon,{G},70.0,0.0,0.0,1,False,False,True,0,18.0
+548,Axew,Basic Pokémon,竜,70.0,0.0,0.0,1,False,False,True,0,18.0
+235,Budew,Basic Pokémon,{G},30.0,10.0,0.0,0,False,False,False,0,16.0
+672,Tyrogue,Basic Pokémon,{F},30.0,10.0,0.0,0,False,False,False,0,16.0
+591,Sigilyph,Basic Pokémon,{P},120.0,0.0,0.0,1,False,False,False,3,16.0
+608,Purrloin,Basic Pokémon,{D},60.0,0.0,0.0,1,False,False,True,0,16.0
+653,Exeggcute,Basic Pokémon,{G},60.0,0.0,0.0,1,False,False,True,0,16.0
+875,Misdreavus,Basic Pokémon,{P},60.0,0.0,0.0,1,False,False,True,0,16.0
+199,Scatterbug,Basic Pokémon,{G},40.0,0.0,0.0,1,False,False,True,0,12.0
+665,Raboot,Stage 1 Pokémon,{R},100.0,0.0,0.0,1,False,False,False,0,12.0
+1058,Haunter,Stage 1 Pokémon,{D},100.0,0.0,0.0,1,False,False,False,0,12.0
+160,Joltik,Basic Pokémon,{L},30.0,0.0,0.0,1,False,False,True,0,10.0
+177,Exeggcute,Basic Pokémon,{G},30.0,0.0,0.0,1,False,False,True,0,10.0
+253,Metapod,Stage 1 Pokémon,{G},90.0,0.0,0.0,1,False,False,False,0,10.0
+853,Cascoon,Stage 1 Pokémon,{G},90.0,0.0,0.0,1,False,False,False,0,10.0
+535,Venipede,Basic Pokémon,{D},80.0,0.0,0.0,1,False,False,False,0,8.0
+1018,Spewpa,Stage 1 Pokémon,{G},80.0,0.0,0.0,1,False,False,False,0,8.0
+215,Uxie,Basic Pokémon,{P},70.0,0.0,0.0,1,False,False,False,0,6.0
+433,Team Rocket's Chingling,Basic Pokémon,{P},30.0,0.0,0.0,0,False,False,False,0,6.0
+399,Team Rocket's Blipbug,Basic Pokémon,{G},60.0,0.0,0.0,1,False,False,False,0,4.0
+473,Team Rocket's Porygon,Basic Pokémon,{C},60.0,0.0,0.0,1,False,False,False,0,4.0
+493,Litwick,Basic Pokémon,{R},60.0,0.0,0.0,1,False,False,False,0,4.0
+814,Cottonee,Basic Pokémon,{P},60.0,0.0,0.0,1,False,False,False,4,4.0
+881,Team Rocket's Diglett,Basic Pokémon,{F},60.0,0.0,0.0,1,False,False,False,0,4.0
+998,Slakoth,Basic Pokémon,{C},60.0,0.0,0.0,1,False,False,False,0,4.0
+247,Swirlix,Basic Pokémon,{P},50.0,0.0,0.0,1,False,False,False,3,2.0
+449,Team Rocket's Arbok,Stage 1 Pokémon,{D},130.0,0.0,0.0,3,False,False,False,3,2.0
+456,Team Rocket's Zubat,Basic Pokémon,{D},50.0,0.0,0.0,1,False,False,False,0,2.0
+488,Foongus,Basic Pokémon,{G},50.0,0.0,0.0,1,False,False,False,0,2.0
+729,Snom,Basic Pokémon,{W},50.0,0.0,0.0,1,False,False,False,0,2.0
+817,Bramblin,Basic Pokémon,{P},50.0,0.0,0.0,1,False,False,False,0,2.0
+459,Team Rocket's Grimer,Basic Pokémon,{D},80.0,0.0,0.0,2,False,False,False,0,0.0
+511,Tynamo,Basic Pokémon,{L},40.0,0.0,0.0,1,False,False,False,0,0.0
+206,Feebas,Basic Pokémon,{W},30.0,0.0,0.0,1,False,False,False,0,-2.0
+278,Lillie’s Cutiefly,Basic Pokémon,{P},30.0,0.0,0.0,1,False,False,False,0,-2.0
+434,Team Rocket's Mimikyu,Basic Pokémon,{P},60.0,0.0,0.0,2,False,False,False,0,-4.0
