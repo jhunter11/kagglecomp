@@ -13,11 +13,26 @@ a native `libstdc++` dep), or (b) a Kaggle API token + accepted Simulation rules
 download `sample_submission/cg`. Until then we build infra against the existing
 mock, but cannot truly iterate.
 
-## 1. Deployment
-The OpenClaw runtime (orchestrator, cron, sub-agent spawning, memory) is reused,
-but its **workspace is repointed from the Kalshi tree to `kagglecomp/`** with a new
-skill set. The Kalshi workspace is archived in its public repo and wiped. So we keep
-the proven agent machinery and aim it at the new task.
+## 1. Deployment — a portable compute hub (Mac dev · Windows overnight · VPS scale)
+The repo **is** the hub: agent code, the loop, the champion, and the experiment
+ledger. Hosts coordinate over **git** (the workhorse pushes the new champion +
+ledger; the brain pulls). The OpenClaw runtime (orchestrator, cron, sub-agents,
+memory) is reused, repointed from the Kalshi tree to `kagglecomp/` with a new skill set.
+
+- **Windows desktop — the self-play workhorse (best near-term).** `cg` ships a native
+  Windows `cg.dll`, so battles run **natively — no Docker, no emulation, full speed.**
+  Leave the inner loop (`mutate → self-play → verify → keep`) running overnight; it
+  commits the new champion + ledger. A GPU here is also the ideal **VibeThinker** host.
+- **Mac — dev + brain.** The OpenClaw **Strategist** runs here: pulls results, picks
+  levers, does the Opus passover, manages submissions. `cg` on the Mac only via Docker
+  (amd64-emulated, slow) — for quick checks, not the grind.
+- **VPS — scale-up (optional).** A Linux box sized to a **multiple of the competition
+  spec (2 vCPU / 12 GiB each)** runs many parallel games natively (`libcg.so`). Reach
+  for it only if Windows-overnight isn't enough throughput.
+
+**Submission policy: AUTO.** The loop auto-submits the verified-best challenger (gated
+by `verify_gate` + an Opus passover), ≤5/day, and notifies after. (Flip to
+confirm-first anytime.)
 
 ## 2. Two tiers, two speeds (where speed + low-human come from)
 - **Tier 1 — Strategist** (Opus, low cadence, judgment). The "play the right cards"

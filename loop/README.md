@@ -9,11 +9,16 @@ The machinery that iterates the agent against self-play win-rate. See
 - `mutate_deck.py` — DEVELOP step (deck lever): generates legal 1-card neighbour
   decks as starter candidates. `python loop/mutate_deck.py --base agents/lucario --n 8`.
 
-## Needs cg (Linux) — ready to flip on
-`cg` is a native Linux lib (`libcg.so`) and won't load on macOS, so self-play runs
-in a Linux container on the Mac:
-- `Dockerfile` — amd64 Linux image with the engine's runtime deps.
-- `run_selfplay.sh` — build + verify-load + run N games. Needs `./cg/` present.
+## Needs cg — ready to flip on
+`cg` is native (`cg.dll` on Windows, `libcg.so` on Linux). The scripts are pure
+Python and cross-platform; only the engine is native.
+
+- **Windows desktop (primary, native, overnight):** drop `cg/` in, then
+  `python scripts/run_official_simulations.py --agent agents/lucario --opponent random --games 200`.
+  No Docker — `cg.dll` loads directly, full speed. This is the self-play workhorse.
+- **Mac (dev only, emulated):** `bash loop/run_selfplay.sh agents/lucario random 200`
+  runs it in an amd64 Linux container (`Dockerfile`) — slower; for quick checks.
+- **Linux VPS (scale):** run the scripts directly; `libcg.so` loads natively.
 
 ## To get cg
 `kaggle competitions download -c pokemon-tcg-ai-battle`, extract
