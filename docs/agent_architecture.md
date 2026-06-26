@@ -43,6 +43,31 @@ Each inner cycle fans out for parallelism:
 Many mutators → parallel verification → keep verified winners. Free local compute
 is what lets this run hot.
 
+## 3.5 Compute tiering — run hot locally, ration the frontier
+Use the cheapest tier that suffices; the **climb must not depend on frontier usage**
+(the Max limit may shrink after this month — design for scarcity).
+
+| Tier | Cost | Does |
+|---|---|---|
+| **Deterministic** | free, unlimited | self-play verify, legality, metrics, the governor's keep/iterate/plateau decisions, dedup, packaging — most of the loop. No LLM. |
+| **VibeThinker-3B (local)** | free, unlimited, parallel | the codegen grunt work: mutate scoring fns, propose deck swaps, write the lookahead, refactor. Many in parallel. |
+| **Sonnet** | cheap frontier | optional mid-tier: summarize a batch, draft a hypothesis. |
+| **Opus** | scarce frontier | ONLY genuine judgment + the **final passover**: pick the lever, break a plateau, submit/strategy calls, the writeup. |
+
+**Honest tweak to the split:** VibeThinker is a verifiable-code specialist — give it
+code-with-a-checker (self-play is the checker), **not** open-ended strategy. Most
+"deciding" should be the governor's **deterministic rules** (free + reliable), not an
+LLM at all. Frontier judgment is Opus, and rare.
+
+**The passover pattern (your idea):** VibeThinker generates → the deterministic
+verifier *proves* a candidate beats the champion → only THEN does Opus do a final
+passover (sanity-check the code, check for cheese / over-reliance, OK-to-submit). So
+Opus touches only the handful of verified winners, never every candidate.
+
+**Graceful degradation:** the core (mutate → verify → keep) is 100% local. If frontier
+access drops, the loop keeps iterating and improving on local compute; only the
+strategic-direction + passover cadence slows. The climb never stalls on a usage cap.
+
 ## 4. Skills: keep / change / drop / build
 **DROP — Kalshi-business, irrelevant to a game-AI comp:** `idea-generation`,
 `idea-validation`, `pain-discovery/evidence/scoring`, `market-validation`,
